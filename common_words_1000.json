@@ -1,0 +1,5856 @@
+{
+  "all": [
+    {
+      "word": "all",
+      "freq": 35728
+    }
+  ],
+  "ajd": [
+    {
+      "word": "and",
+      "freq": 90049
+    }
+  ],
+  "flj": [
+    {
+      "word": "boy",
+      "freq": 5937
+    },
+    {
+      "word": "fly",
+      "freq": 780
+    }
+  ],
+  "daf": [
+    {
+      "word": "eat",
+      "freq": 3701
+    },
+    {
+      "word": "car",
+      "freq": 3191
+    },
+    {
+      "word": "cat",
+      "freq": 997
+    },
+    {
+      "word": "ear",
+      "freq": 404
+    }
+  ],
+  "daj": [
+    {
+      "word": "can",
+      "freq": 46947
+    },
+    {
+      "word": "day",
+      "freq": 7704
+    }
+  ],
+  "djd": [
+    {
+      "word": "eye",
+      "freq": 1896
+    },
+    {
+      "word": "end",
+      "freq": 1427
+    }
+  ],
+  "fajklj": [
+    {
+      "word": "family",
+      "freq": 2785
+    }
+  ],
+  "jljd": [
+    {
+      "word": "home",
+      "freq": 4348
+    }
+  ],
+  "kf": [
+    {
+      "word": "it",
+      "freq": 117091
+    },
+    {
+      "word": "if",
+      "freq": 19770
+    }
+  ],
+  "jaj": [
+    {
+      "word": "man",
+      "freq": 10340
+    },
+    {
+      "word": "may",
+      "freq": 5180
+    }
+  ],
+  "jajd": [
+    {
+      "word": "name",
+      "freq": 2683
+    },
+    {
+      "word": "hand",
+      "freq": 1767
+    }
+  ],
+  "ljd": [
+    {
+      "word": "one",
+      "freq": 21176
+    }
+  ],
+  ";dl;ld": [
+    {
+      "word": "people",
+      "freq": 7104
+    }
+  ],
+  "fdad": [
+    {
+      "word": "read",
+      "freq": 2046
+    }
+  ],
+  "sdjlll": [
+    {
+      "word": "school",
+      "freq": 3243
+    }
+  ],
+  "s;dak": [
+    {
+      "word": "speak",
+      "freq": 1268
+    }
+  ],
+  "fjd": [
+    {
+      "word": "the",
+      "freq": 176446
+    }
+  ],
+  "fjks": [
+    {
+      "word": "this",
+      "freq": 56116
+    }
+  ],
+  "jlj": [
+    {
+      "word": "you",
+      "freq": 248266
+    }
+  ],
+  "ask": [
+    {
+      "word": "ask",
+      "freq": 4367
+    }
+  ],
+  "fllk": [
+    {
+      "word": "book",
+      "freq": 1879
+    }
+  ],
+  "dlf": [
+    {
+      "word": "dog",
+      "freq": 2442
+    }
+  ],
+  "fkfsf": [
+    {
+      "word": "first",
+      "freq": 5605
+    }
+  ],
+  "fl": [
+    {
+      "word": "go",
+      "freq": 51445
+    }
+  ],
+  "jd": [
+    {
+      "word": "he",
+      "freq": 33653
+    }
+  ],
+  "djkld": [
+    {
+      "word": "child",
+      "freq": 2602
+    }
+  ],
+  "kj": [
+    {
+      "word": "in",
+      "freq": 58486
+    }
+  ],
+  "ldafj": [
+    {
+      "word": "learn",
+      "freq": 1715
+    }
+  ],
+  "jlfjkjf": [
+    {
+      "word": "nothing",
+      "freq": 4330
+    },
+    {
+      "word": "morning",
+      "freq": 1985
+    }
+  ],
+  "l;dj": [
+    {
+      "word": "open",
+      "freq": 2059
+    }
+  ],
+  ";laj": [
+    {
+      "word": "play",
+      "freq": 4377
+    },
+    {
+      "word": "plan",
+      "freq": 970
+    }
+  ],
+  "ajdsfklj": [
+    {
+      "word": "question",
+      "freq": 1223
+    }
+  ],
+  "fllj": [
+    {
+      "word": "room",
+      "freq": 2789
+    }
+  ],
+  "saj": [
+    {
+      "word": "say",
+      "freq": 21603
+    },
+    {
+      "word": "way",
+      "freq": 8759
+    }
+  ],
+  "sfaff": [
+    {
+      "word": "start",
+      "freq": 4363
+    }
+  ],
+  "fldaj": [
+    {
+      "word": "today",
+      "freq": 3055
+    }
+  ],
+  "slfd": [
+    {
+      "word": "word",
+      "freq": 2207
+    }
+  ],
+  "afljf": [
+    {
+      "word": "about",
+      "freq": 23244
+    }
+  ],
+  "af": [
+    {
+      "word": "at",
+      "freq": 21243
+    }
+  ],
+  "fflfjdf": [
+    {
+      "word": "brother",
+      "freq": 1441
+    }
+  ],
+  "dfkjk": [
+    {
+      "word": "drink",
+      "freq": 2033
+    }
+  ],
+  "dasj": [
+    {
+      "word": "easy",
+      "freq": 1508
+    }
+  ],
+  "fafjdf": [
+    {
+      "word": "father",
+      "freq": 2108
+    },
+    {
+      "word": "rather",
+      "freq": 522
+    },
+    {
+      "word": "farmer",
+      "freq": 101
+    }
+  ],
+  "fkfl": [
+    {
+      "word": "girl",
+      "freq": 4526
+    }
+  ],
+  "jdl;": [
+    {
+      "word": "help",
+      "freq": 4519
+    }
+  ],
+  "djakf": [
+    {
+      "word": "chair",
+      "freq": 700
+    }
+  ],
+  "kjls": [
+    {
+      "word": "know",
+      "freq": 40007
+    }
+  ],
+  "jj": [
+    {
+      "word": "my",
+      "freq": 53316
+    }
+  ],
+  "jds": [
+    {
+      "word": "yes",
+      "freq": 11118
+    },
+    {
+      "word": "new",
+      "freq": 5055
+    }
+  ],
+  ";a;df": [
+    {
+      "word": "paper",
+      "freq": 1308
+    }
+  ],
+  ";ldasd": [
+    {
+      "word": "please",
+      "freq": 5856
+    }
+  ],
+  "fkdj": [
+    {
+      "word": "rich",
+      "freq": 548
+    }
+  ],
+  "sjd": [
+    {
+      "word": "she",
+      "freq": 19043
+    }
+  ],
+  "sjls": [
+    {
+      "word": "show",
+      "freq": 4075
+    },
+    {
+      "word": "snow",
+      "freq": 190
+    }
+  ],
+  "slj": [
+    {
+      "word": "son",
+      "freq": 2692
+    }
+  ],
+  "fjdj": [
+    {
+      "word": "they",
+      "freq": 21051
+    },
+    {
+      "word": "then",
+      "freq": 9584
+    }
+  ],
+  "sjaf": [
+    {
+      "word": "what",
+      "freq": 62015
+    }
+  ],
+  "alsajs": [
+    {
+      "word": "always",
+      "freq": 3868
+    }
+  ],
+  "fd": [
+    {
+      "word": "be",
+      "freq": 318018
+    }
+  ],
+  "fldj": [
+    {
+      "word": "body",
+      "freq": 1043
+    }
+  ],
+  "dafdfjl": [
+    {
+      "word": "careful",
+      "freq": 385
+    }
+  ],
+  "dfj": [
+    {
+      "word": "cry",
+      "freq": 964
+    },
+    {
+      "word": "dry",
+      "freq": 185
+    }
+  ],
+  "dllf": [
+    {
+      "word": "door",
+      "freq": 1528
+    }
+  ],
+  "dfdfjfjkjf": [
+    {
+      "word": "everything",
+      "freq": 3375
+    }
+  ],
+  "fadd": [
+    {
+      "word": "face",
+      "freq": 1274
+    },
+    {
+      "word": "race",
+      "freq": 336
+    }
+  ],
+  "jdf": [
+    {
+      "word": "her",
+      "freq": 14759
+    }
+  ],
+  "jajj": [
+    {
+      "word": "many",
+      "freq": 1904
+    }
+  ],
+  "jl": [
+    {
+      "word": "no",
+      "freq": 43447
+    }
+  ],
+  ";dj": [
+    {
+      "word": "pen",
+      "freq": 342
+    }
+  ],
+  ";ladd": [
+    {
+      "word": "place",
+      "freq": 3620
+    }
+  ],
+  "flad": [
+    {
+      "word": "glad",
+      "freq": 1037
+    },
+    {
+      "word": "road",
+      "freq": 482
+    }
+  ],
+  "sfl;": [
+    {
+      "word": "stop",
+      "freq": 5799
+    }
+  ],
+  "sfjddjf": [
+    {
+      "word": "student",
+      "freq": 713
+    }
+  ],
+  "fsl": [
+    {
+      "word": "two",
+      "freq": 7221
+    }
+  ],
+  "sajf": [
+    {
+      "word": "want",
+      "freq": 24829
+    }
+  ],
+  "sjdfd": [
+    {
+      "word": "where",
+      "freq": 8941
+    }
+  ],
+  "ajssdf": [
+    {
+      "word": "answer",
+      "freq": 727
+    }
+  ],
+  "fdfsddj": [
+    {
+      "word": "between",
+      "freq": 947
+    }
+  ],
+  "dldaf": [
+    {
+      "word": "clear",
+      "freq": 620
+    }
+  ],
+  "dljjffj": [
+    {
+      "word": "country",
+      "freq": 883
+    }
+  ],
+  "dajdd": [
+    {
+      "word": "dance",
+      "freq": 1195
+    }
+  ],
+  "dl": [
+    {
+      "word": "do",
+      "freq": 67643
+    }
+  ],
+  "dadj": [
+    {
+      "word": "each",
+      "freq": 1739
+    }
+  ],
+  "ffkdjd": [
+    {
+      "word": "friend",
+      "freq": 6447
+    }
+  ],
+  "jks": [
+    {
+      "word": "his",
+      "freq": 10145
+    }
+  ],
+  "jlf": [
+    {
+      "word": "not",
+      "freq": 109143
+    },
+    {
+      "word": "job",
+      "freq": 2948
+    },
+    {
+      "word": "hot",
+      "freq": 2256
+    }
+  ],
+  "lkfd": [
+    {
+      "word": "life",
+      "freq": 5169
+    }
+  ],
+  "jlfd": [
+    {
+      "word": "more",
+      "freq": 7922
+    },
+    {
+      "word": "move",
+      "freq": 3187
+    }
+  ],
+  ";afk": [
+    {
+      "word": "park",
+      "freq": 445
+    }
+  ],
+  ";dfslj": [
+    {
+      "word": "person",
+      "freq": 3351
+    }
+  ],
+  "fdadj": [
+    {
+      "word": "ready",
+      "freq": 2177
+    },
+    {
+      "word": "teach",
+      "freq": 1002
+    },
+    {
+      "word": "reach",
+      "freq": 470
+    }
+  ],
+  "sddljd": [
+    {
+      "word": "second",
+      "freq": 2491
+    }
+  ],
+  "sllj": [
+    {
+      "word": "soon",
+      "freq": 1191
+    }
+  ],
+  "fjaf": [
+    {
+      "word": "that",
+      "freq": 95271
+    }
+  ],
+  "sd": [
+    {
+      "word": "we",
+      "freq": 61381
+    }
+  ],
+  "sjj": [
+    {
+      "word": "why",
+      "freq": 14194
+    },
+    {
+      "word": "sun",
+      "freq": 312
+    }
+  ],
+  "afld": [
+    {
+      "word": "able",
+      "freq": 788
+    }
+  ],
+  "fdflfd": [
+    {
+      "word": "before",
+      "freq": 3883
+    }
+  ],
+  "fjf": [
+    {
+      "word": "but",
+      "freq": 30070
+    }
+  ],
+  "dldaj": [
+    {
+      "word": "clean",
+      "freq": 621
+    }
+  ],
+  "dllsd": [
+    {
+      "word": "close",
+      "freq": 1085
+    }
+  ],
+  "dfdaj": [
+    {
+      "word": "dream",
+      "freq": 1110
+    },
+    {
+      "word": "cream",
+      "freq": 629
+    }
+  ],
+  "dkfjf": [
+    {
+      "word": "eight",
+      "freq": 947
+    }
+  ],
+  "flf": [
+    {
+      "word": "for",
+      "freq": 42850
+    }
+  ],
+  "kjskdd": [
+    {
+      "word": "inside",
+      "freq": 476
+    }
+  ],
+  "jls": [
+    {
+      "word": "now",
+      "freq": 21312
+    },
+    {
+      "word": "how",
+      "freq": 19474
+    }
+  ],
+  "lf": [
+    {
+      "word": "or",
+      "freq": 9272
+    }
+  ],
+  ";kdfjfd": [
+    {
+      "word": "picture",
+      "freq": 1370
+    }
+  ],
+  "fkfdf": [
+    {
+      "word": "river",
+      "freq": 138
+    }
+  ],
+  "sjk;": [
+    {
+      "word": "ship",
+      "freq": 288
+    }
+  ],
+  "sjl;": [
+    {
+      "word": "shop",
+      "freq": 361
+    }
+  ],
+  "skf": [
+    {
+      "word": "sit",
+      "freq": 2600
+    }
+  ],
+  "fafld": [
+    {
+      "word": "table",
+      "freq": 1010
+    }
+  ],
+  "fdfj": [
+    {
+      "word": "very",
+      "freq": 6974
+    }
+  ],
+  "sfkfd": [
+    {
+      "word": "write",
+      "freq": 2001
+    }
+  ],
+  "akf": [
+    {
+      "word": "air",
+      "freq": 703
+    }
+  ],
+  "fladk": [
+    {
+      "word": "black",
+      "freq": 1170
+    }
+  ],
+  "dkjdja": [
+    {
+      "word": "cinema",
+      "freq": 1
+    }
+  ],
+  "dajfjfdf": [
+    {
+      "word": "daughter",
+      "freq": 759
+    }
+  ],
+  "fflj": [
+    {
+      "word": "from",
+      "freq": 12409
+    }
+  ],
+  "flld": [
+    {
+      "word": "good",
+      "freq": 22907
+    },
+    {
+      "word": "food",
+      "freq": 1628
+    },
+    {
+      "word": "gold",
+      "freq": 318
+    }
+  ],
+  "jdad": [
+    {
+      "word": "head",
+      "freq": 2362
+    }
+  ],
+  "djddsd": [
+    {
+      "word": "cheese",
+      "freq": 473
+    }
+  ],
+  "kj;lffajf": [
+    {
+      "word": "important",
+      "freq": 1401
+    }
+  ],
+  "lajd": [
+    {
+      "word": "land",
+      "freq": 218
+    }
+  ],
+  "jljdj": [
+    {
+      "word": "money",
+      "freq": 3352
+    }
+  ],
+  ";aj": [
+    {
+      "word": "pay",
+      "freq": 2314
+    }
+  ],
+  ";flfldj": [
+    {
+      "word": "problem",
+      "freq": 2931
+    }
+  ],
+  "fjj": [
+    {
+      "word": "run",
+      "freq": 3229
+    },
+    {
+      "word": "buy",
+      "freq": 2827
+    },
+    {
+      "word": "gun",
+      "freq": 699
+    }
+  ],
+  "sajd": [
+    {
+      "word": "same",
+      "freq": 2200
+    }
+  ],
+  "sdd": [
+    {
+      "word": "see",
+      "freq": 20925
+    }
+  ],
+  "sdjd": [
+    {
+      "word": "send",
+      "freq": 1617
+    }
+  ],
+  "fjkjf": [
+    {
+      "word": "thing",
+      "freq": 12547
+    }
+  ],
+  "slfk": [
+    {
+      "word": "work",
+      "freq": 6741
+    }
+  ],
+  "ajj": [
+    {
+      "word": "any",
+      "freq": 5626
+    }
+  ],
+  "as": [
+    {
+      "word": "as",
+      "freq": 11415
+    }
+  ],
+  "fdffdf": [
+    {
+      "word": "better",
+      "freq": 22907
+    }
+  ],
+  "dlld": [
+    {
+      "word": "cold",
+      "freq": 678
+    }
+  ],
+  "dljd": [
+    {
+      "word": "come",
+      "freq": 22535
+    }
+  ],
+  "dldflf": [
+    {
+      "word": "doctor",
+      "freq": 2486
+    }
+  ],
+  "fkjd": [
+    {
+      "word": "time",
+      "freq": 13834
+    },
+    {
+      "word": "find",
+      "freq": 6172
+    },
+    {
+      "word": "fine",
+      "freq": 4571
+    }
+  ],
+  "fajd": [
+    {
+      "word": "game",
+      "freq": 2534
+    }
+  ],
+  "kdda": [
+    {
+      "word": "idea",
+      "freq": 3136
+    }
+  ],
+  "kkjd": [
+    {
+      "word": "kind",
+      "freq": 4928
+    }
+  ],
+  "lkfd (f)": [
+    {
+      "word": "live (v)",
+      "freq": 1
+    }
+  ],
+  "jakd": [
+    {
+      "word": "make",
+      "freq": 17038
+    }
+  ],
+  ";dadd": [
+    {
+      "word": "peace",
+      "freq": 303
+    }
+  ],
+  ";l;jlaf": [
+    {
+      "word": "popular",
+      "freq": 333
+    }
+  ],
+  "fkfjf": [
+    {
+      "word": "right",
+      "freq": 16390
+    },
+    {
+      "word": "fight",
+      "freq": 1156
+    }
+  ],
+  "sjall": [
+    {
+      "word": "shall",
+      "freq": 9411
+    },
+    {
+      "word": "small",
+      "freq": 928
+    }
+  ],
+  "sl": [
+    {
+      "word": "so",
+      "freq": 35491
+    }
+  ],
+  "sljd": [
+    {
+      "word": "some",
+      "freq": 11370
+    }
+  ],
+  "fjdfd": [
+    {
+      "word": "there",
+      "freq": 14067
+    }
+  ],
+  "sakf": [
+    {
+      "word": "wait",
+      "freq": 7947
+    }
+  ],
+  "afakj": [
+    {
+      "word": "again",
+      "freq": 5254
+    }
+  ],
+  "fadk": [
+    {
+      "word": "back",
+      "freq": 10865
+    }
+  ],
+  "dljld": [
+    {
+      "word": "could",
+      "freq": 46947
+    }
+  ],
+  "dldjjdjf": [
+    {
+      "word": "document",
+      "freq": 69
+    }
+  ],
+  "dff": [
+    {
+      "word": "egg",
+      "freq": 566
+    }
+  ],
+  "fkfd": [
+    {
+      "word": "give",
+      "freq": 10173
+    },
+    {
+      "word": "fire",
+      "freq": 1021
+    },
+    {
+      "word": "bird",
+      "freq": 525
+    }
+  ],
+  "djajdd": [
+    {
+      "word": "chance",
+      "freq": 1175
+    }
+  ],
+  "kjflfjafklj": [
+    {
+      "word": "information",
+      "freq": 347
+    }
+  ],
+  "lkfjf": [
+    {
+      "word": "light",
+      "freq": 797
+    }
+  ],
+  "lffdj": [
+    {
+      "word": "often",
+      "freq": 281
+    }
+  ],
+  ";fdfdf": [
+    {
+      "word": "prefer",
+      "freq": 213
+    }
+  ],
+  ";jf": [
+    {
+      "word": "put",
+      "freq": 5863
+    }
+  ],
+  "fdd": [
+    {
+      "word": "bed",
+      "freq": 1309
+    },
+    {
+      "word": "red",
+      "freq": 859
+    }
+  ],
+  "sfljd": [
+    {
+      "word": "stone",
+      "freq": 163
+    }
+  ],
+  "sjdj": [
+    {
+      "word": "when",
+      "freq": 11544
+    },
+    {
+      "word": "such",
+      "freq": 1901
+    }
+  ],
+  "fjkjk": [
+    {
+      "word": "think",
+      "freq": 25894
+    }
+  ],
+  "jjddfsfajd": [
+    {
+      "word": "understand",
+      "freq": 2360
+    }
+  ],
+  "fkskf": [
+    {
+      "word": "visit",
+      "freq": 428
+    }
+  ],
+  "afljjd": [
+    {
+      "word": "around",
+      "freq": 4013
+    }
+  ],
+  "fdsf": [
+    {
+      "word": "best",
+      "freq": 22907
+    },
+    {
+      "word": "rest",
+      "freq": 871
+    },
+    {
+      "word": "test",
+      "freq": 492
+    }
+  ],
+  "dall": [
+    {
+      "word": "call",
+      "freq": 8413
+    }
+  ],
+  "djf": [
+    {
+      "word": "cut",
+      "freq": 1347
+    }
+  ],
+  "dkjjdf": [
+    {
+      "word": "dinner",
+      "freq": 1787
+    }
+  ],
+  "dlsj": [
+    {
+      "word": "down",
+      "freq": 7782
+    }
+  ],
+  "ds;lakj": [
+    {
+      "word": "explain",
+      "freq": 676
+    }
+  ],
+  "fdf": [
+    {
+      "word": "get",
+      "freq": 56906
+    }
+  ],
+  "kjfdfdsfkjf": [
+    {
+      "word": "interesting",
+      "freq": 662
+    }
+  ],
+  "lljf": [
+    {
+      "word": "long",
+      "freq": 2639
+    }
+  ],
+  "ljf": [
+    {
+      "word": "out",
+      "freq": 24533
+    }
+  ],
+  ";afd": [
+    {
+      "word": "page",
+      "freq": 346
+    }
+  ],
+  "sdf": [
+    {
+      "word": "set",
+      "freq": 1280
+    }
+  ],
+  "sjljld": [
+    {
+      "word": "should",
+      "freq": 9411
+    }
+  ],
+  "sfajd": [
+    {
+      "word": "stand",
+      "freq": 1815
+    }
+  ],
+  "j;": [
+    {
+      "word": "up",
+      "freq": 22171
+    }
+  ],
+  "afd": [
+    {
+      "word": "age",
+      "freq": 533
+    }
+  ],
+  "fddajsd": [
+    {
+      "word": "because",
+      "freq": 11396
+    }
+  ],
+  "fkf": [
+    {
+      "word": "big",
+      "freq": 6674
+    }
+  ],
+  "dajdfa": [
+    {
+      "word": "camera",
+      "freq": 465
+    }
+  ],
+  "dkfj": [
+    {
+      "word": "city",
+      "freq": 1243
+    }
+  ],
+  "dfdss": [
+    {
+      "word": "dress",
+      "freq": 860
+    }
+  ],
+  "dfdjkjf": [
+    {
+      "word": "evening",
+      "freq": 539
+    }
+  ],
+  "ffdd": [
+    {
+      "word": "free",
+      "freq": 1473
+    },
+    {
+      "word": "tree",
+      "freq": 692
+    }
+  ],
+  "jafd": [
+    {
+      "word": "have",
+      "freq": 62828
+    },
+    {
+      "word": "hard",
+      "freq": 2422
+    },
+    {
+      "word": "hate",
+      "freq": 2369
+    }
+  ],
+  "kll": [
+    {
+      "word": "ill",
+      "freq": 52
+    }
+  ],
+  "lkkd": [
+    {
+      "word": "like",
+      "freq": 19165
+    }
+  ],
+  "jlfjdf": [
+    {
+      "word": "mother",
+      "freq": 2219
+    }
+  ],
+  "lld": [
+    {
+      "word": "old",
+      "freq": 3955
+    }
+  ],
+  ";llkdd": [
+    {
+      "word": "police",
+      "freq": 602
+    }
+  ],
+  "fdjdjfdf": [
+    {
+      "word": "remember",
+      "freq": 3344
+    }
+  ],
+  "sffddf": [
+    {
+      "word": "street",
+      "freq": 970
+    }
+  ],
+  "sfjdj": [
+    {
+      "word": "study",
+      "freq": 292
+    }
+  ],
+  "fdadjdf": [
+    {
+      "word": "teacher",
+      "freq": 657
+    }
+  ],
+  "flkdd": [
+    {
+      "word": "voice",
+      "freq": 673
+    }
+  ],
+  "safdf": [
+    {
+      "word": "water",
+      "freq": 1110
+    }
+  ],
+  "alsl": [
+    {
+      "word": "also",
+      "freq": 1590
+    }
+  ],
+  "fls": [
+    {
+      "word": "box",
+      "freq": 1111
+    },
+    {
+      "word": "row",
+      "freq": 205
+    }
+  ],
+  "dlass": [
+    {
+      "word": "class",
+      "freq": 1388
+    }
+  ],
+  "dkffkdjlf": [
+    {
+      "word": "difficult",
+      "freq": 259
+    }
+  ],
+  "dfkfd": [
+    {
+      "word": "drive",
+      "freq": 1890
+    }
+  ],
+  "ffdaf": [
+    {
+      "word": "great",
+      "freq": 8778
+    }
+  ],
+  "ja;;j": [
+    {
+      "word": "happy",
+      "freq": 2995
+    }
+  ],
+  "djajfd": [
+    {
+      "word": "change",
+      "freq": 2256
+    }
+  ],
+  "jjkdd": [
+    {
+      "word": "juice",
+      "freq": 316
+    }
+  ],
+  "jddf": [
+    {
+      "word": "meet",
+      "freq": 4185
+    }
+  ],
+  "jddd": [
+    {
+      "word": "need",
+      "freq": 9654
+    }
+  ],
+  ";fdffj": [
+    {
+      "word": "pretty",
+      "freq": 2577
+    }
+  ],
+  "ajkfd": [
+    {
+      "word": "quite",
+      "freq": 879
+    }
+  ],
+  "fdal": [
+    {
+      "word": "real",
+      "freq": 3008
+    }
+  ],
+  "sad": [
+    {
+      "word": "sad",
+      "freq": 603
+    }
+  ],
+  "s;fkjf": [
+    {
+      "word": "spring",
+      "freq": 245
+    }
+  ],
+  "sfaf": [
+    {
+      "word": "star",
+      "freq": 715
+    }
+  ],
+  "fakd": [
+    {
+      "word": "take",
+      "freq": 15582
+    }
+  ],
+  "adfklj": [
+    {
+      "word": "action",
+      "freq": 399
+    }
+  ],
+  "alljd": [
+    {
+      "word": "alone",
+      "freq": 957
+    }
+  ],
+  "ffdakfasf": [
+    {
+      "word": "breakfast",
+      "freq": 458
+    }
+  ],
+  "dljfkjjd": [
+    {
+      "word": "continue",
+      "freq": 326
+    }
+  ],
+  "ddad": [
+    {
+      "word": "dead",
+      "freq": 1821
+    }
+  ],
+  "djjlj": [
+    {
+      "word": "enjoy",
+      "freq": 1206
+    }
+  ],
+  "fjll": [
+    {
+      "word": "full",
+      "freq": 1070
+    }
+  ],
+  "fafddj": [
+    {
+      "word": "garden",
+      "freq": 162
+    }
+  ],
+  "jljsd": [
+    {
+      "word": "house",
+      "freq": 3327
+    }
+  ],
+  "jljfjdj": [
+    {
+      "word": "journey",
+      "freq": 113
+    }
+  ],
+  "jjdj": [
+    {
+      "word": "much",
+      "freq": 5811
+    }
+  ],
+  ";jljd": [
+    {
+      "word": "phone",
+      "freq": 1945
+    }
+  ],
+  ";fkdd": [
+    {
+      "word": "price",
+      "freq": 366
+    }
+  ],
+  "fdsjlf": [
+    {
+      "word": "result",
+      "freq": 200
+    }
+  ],
+  "sksfdf": [
+    {
+      "word": "sister",
+      "freq": 997
+    }
+  ],
+  "fdll": [
+    {
+      "word": "tell",
+      "freq": 14661
+    }
+  ],
+  "fkds": [
+    {
+      "word": "view",
+      "freq": 175
+    }
+  ],
+  "skfj": [
+    {
+      "word": "with",
+      "freq": 34115
+    },
+    {
+      "word": "sign",
+      "freq": 754
+    }
+  ],
+  "afakjsf": [
+    {
+      "word": "against",
+      "freq": 821
+    }
+  ],
+  "fjs": [
+    {
+      "word": "bus",
+      "freq": 558
+    }
+  ],
+  "dlj;ajj": [
+    {
+      "word": "company",
+      "freq": 1061
+    }
+  ],
+  "ddsdff (j)": [
+    {
+      "word": "desert (n)",
+      "freq": 1
+    }
+  ],
+  "ds;djskfd": [
+    {
+      "word": "expensive",
+      "freq": 244
+    }
+  ],
+  "fllsdf": [
+    {
+      "word": "flower",
+      "freq": 372
+    }
+  ],
+  "ffddj": [
+    {
+      "word": "green",
+      "freq": 357
+    }
+  ],
+  "djjfdj": [
+    {
+      "word": "church",
+      "freq": 455
+    }
+  ],
+  "kj;lsskfld": [
+    {
+      "word": "impossible",
+      "freq": 279
+    }
+  ],
+  "ldafd": [
+    {
+      "word": "leave",
+      "freq": 5529
+    }
+  ],
+  "jljfj": [
+    {
+      "word": "month",
+      "freq": 1514
+    }
+  ],
+  "lj": [
+    {
+      "word": "on",
+      "freq": 43007
+    }
+  ],
+  ";lsskfld": [
+    {
+      "word": "possible",
+      "freq": 549
+    }
+  ],
+  "fdfjfj": [
+    {
+      "word": "return",
+      "freq": 847
+    }
+  ],
+  "safd": [
+    {
+      "word": "save",
+      "freq": 1656
+    },
+    {
+      "word": "safe",
+      "freq": 681
+    }
+  ],
+  "sda": [
+    {
+      "word": "sea",
+      "freq": 335
+    }
+  ],
+  "sljdfjkjf": [
+    {
+      "word": "something",
+      "freq": 9075
+    }
+  ],
+  "flfdfjdf": [
+    {
+      "word": "together",
+      "freq": 2796
+    }
+  ],
+  "sljaj": [
+    {
+      "word": "woman",
+      "freq": 4444
+    }
+  ],
+  "ajjfjkjf": [
+    {
+      "word": "anything",
+      "freq": 4714
+    }
+  ],
+  "afjj": [
+    {
+      "word": "army",
+      "freq": 218
+    }
+  ],
+  "fad": [
+    {
+      "word": "bad",
+      "freq": 5716
+    }
+  ],
+  "dlfdf": [
+    {
+      "word": "cover",
+      "freq": 562
+    }
+  ],
+  "djlfjfd": [
+    {
+      "word": "culture",
+      "freq": 164
+    }
+  ],
+  "dddksklj": [
+    {
+      "word": "decision",
+      "freq": 452
+    }
+  ],
+  "dsaj;ld": [
+    {
+      "word": "example",
+      "freq": 215
+    }
+  ],
+  "fddl": [
+    {
+      "word": "feel",
+      "freq": 6479
+    }
+  ],
+  "kslajd": [
+    {
+      "word": "island",
+      "freq": 401
+    }
+  ],
+  "jdjfdf": [
+    {
+      "word": "member",
+      "freq": 329
+    }
+  ],
+  "jdsf": [
+    {
+      "word": "next",
+      "freq": 1947
+    }
+  ],
+  ";lskfklj": [
+    {
+      "word": "position",
+      "freq": 199
+    }
+  ],
+  ";fdsdjf (adj)": [
+    {
+      "word": "present (adj)",
+      "freq": 1
+    }
+  ],
+  "fddlfd (j)": [
+    {
+      "word": "record (n)",
+      "freq": 1
+    }
+  ],
+  "sldd;": [
+    {
+      "word": "sleep",
+      "freq": 2030
+    }
+  ],
+  "ssddf": [
+    {
+      "word": "sweet",
+      "freq": 1649
+    }
+  ],
+  "ffj": [
+    {
+      "word": "try",
+      "freq": 6611
+    }
+  ],
+  "jjddf": [
+    {
+      "word": "under",
+      "freq": 1311
+    }
+  ],
+  "slfld": [
+    {
+      "word": "world",
+      "freq": 2910
+    }
+  ],
+  "affdf": [
+    {
+      "word": "after",
+      "freq": 3483
+    }
+  ],
+  "dafdj": [
+    {
+      "word": "catch",
+      "freq": 1290
+    }
+  ],
+  "dlfjdf": [
+    {
+      "word": "corner",
+      "freq": 285
+    }
+  ],
+  "dksfajdd": [
+    {
+      "word": "distance",
+      "freq": 124
+    }
+  ],
+  "ddjdafklj": [
+    {
+      "word": "education",
+      "freq": 117
+    }
+  ],
+  "fasf": [
+    {
+      "word": "fast",
+      "freq": 657
+    }
+  ],
+  "jdfd": [
+    {
+      "word": "here",
+      "freq": 25170
+    }
+  ],
+  "kjfdfdsf": [
+    {
+      "word": "interest",
+      "freq": 201
+    }
+  ],
+  "ldffdf": [
+    {
+      "word": "letter",
+      "freq": 523
+    }
+  ],
+  "jdfdf": [
+    {
+      "word": "never",
+      "freq": 8620
+    }
+  ],
+  ";aff": [
+    {
+      "word": "part",
+      "freq": 2062
+    }
+  ],
+  ";fdskddjf": [
+    {
+      "word": "president",
+      "freq": 757
+    }
+  ],
+  "fljjd": [
+    {
+      "word": "round",
+      "freq": 210
+    }
+  ],
+  "sdfdfal": [
+    {
+      "word": "several",
+      "freq": 188
+    }
+  ],
+  "sljjd": [
+    {
+      "word": "sound",
+      "freq": 2411
+    }
+  ],
+  "sflfj": [
+    {
+      "word": "story",
+      "freq": 2107
+    }
+  ],
+  "falk": [
+    {
+      "word": "talk",
+      "freq": 9197
+    }
+  ],
+  "sddk": [
+    {
+      "word": "week",
+      "freq": 2954
+    }
+  ],
+  "aljlsf": [
+    {
+      "word": "almost",
+      "freq": 1168
+    }
+  ],
+  "ffdad": [
+    {
+      "word": "bread",
+      "freq": 301
+    }
+  ],
+  "dljffll": [
+    {
+      "word": "control",
+      "freq": 391
+    }
+  ],
+  "ddaf": [
+    {
+      "word": "dear",
+      "freq": 879
+    }
+  ],
+  "dfdfj": [
+    {
+      "word": "every",
+      "freq": 3463
+    }
+  ],
+  "fds": [
+    {
+      "word": "few",
+      "freq": 1516
+    }
+  ],
+  "djkdf": [
+    {
+      "word": "chief",
+      "freq": 99
+    }
+  ],
+  "kjfkfd": [
+    {
+      "word": "invite",
+      "freq": 873
+    }
+  ],
+  "lafd": [
+    {
+      "word": "late",
+      "freq": 3221
+    }
+  ],
+  "jlsf": [
+    {
+      "word": "most",
+      "freq": 2244
+    }
+  ],
+  "ljlj": [
+    {
+      "word": "only",
+      "freq": 4704
+    }
+  ],
+  ";fldjdf": [
+    {
+      "word": "product",
+      "freq": 173
+    }
+  ],
+  ";jflkd": [
+    {
+      "word": "public",
+      "freq": 373
+    }
+  ],
+  "fdddkfd": [
+    {
+      "word": "receive",
+      "freq": 232
+    }
+  ],
+  "slffj": [
+    {
+      "word": "sorry",
+      "freq": 8050
+    }
+  ],
+  "sffljf": [
+    {
+      "word": "strong",
+      "freq": 571
+    }
+  ],
+  "fll": [
+    {
+      "word": "too",
+      "freq": 8300
+    }
+  ],
+  "adflss": [
+    {
+      "word": "across",
+      "freq": 470
+    }
+  ],
+  "aff": [
+    {
+      "word": "art",
+      "freq": 562
+    }
+  ],
+  "ffkjf": [
+    {
+      "word": "bring",
+      "freq": 3469
+    }
+  ],
+  "daffj": [
+    {
+      "word": "earth",
+      "freq": 620
+    },
+    {
+      "word": "carry",
+      "freq": 474
+    }
+  ],
+  "dljfkfj": [
+    {
+      "word": "confirm",
+      "freq": 83
+    }
+  ],
+  "dkd": [
+    {
+      "word": "die",
+      "freq": 2426
+    }
+  ],
+  "dasf": [
+    {
+      "word": "east",
+      "freq": 204
+    }
+  ],
+  "fflj;": [
+    {
+      "word": "group",
+      "freq": 766
+    }
+  ],
+  "jl;d": [
+    {
+      "word": "hope",
+      "freq": 2077
+    }
+  ],
+  "kjdjsffj": [
+    {
+      "word": "industry",
+      "freq": 110
+    }
+  ],
+  "lllk": [
+    {
+      "word": "look",
+      "freq": 18129
+    }
+  ],
+  "jjsf": [
+    {
+      "word": "just",
+      "freq": 39366
+    },
+    {
+      "word": "must",
+      "freq": 2891
+    }
+  ],
+  "lsj": [
+    {
+      "word": "own",
+      "freq": 2501
+    }
+  ],
+  ";dfsljal": [
+    {
+      "word": "personal",
+      "freq": 481
+    }
+  ],
+  "fdaslj": [
+    {
+      "word": "reason",
+      "freq": 1339
+    }
+  ],
+  "sdffkdd": [
+    {
+      "word": "service",
+      "freq": 443
+    }
+  ],
+  "sfaj": [
+    {
+      "word": "stay",
+      "freq": 2781
+    }
+  ],
+  "fjdkf": [
+    {
+      "word": "their",
+      "freq": 4191
+    }
+  ],
+  "skfd": [
+    {
+      "word": "wife",
+      "freq": 1885
+    }
+  ],
+  "asaj": [
+    {
+      "word": "away",
+      "freq": 3498
+    }
+  ],
+  "fdajfkfjl": [
+    {
+      "word": "beautiful",
+      "freq": 1707
+    }
+  ],
+  "dafd": [
+    {
+      "word": "care",
+      "freq": 3199
+    },
+    {
+      "word": "date",
+      "freq": 1682
+    },
+    {
+      "word": "card",
+      "freq": 1154
+    }
+  ],
+  "dlsf": [
+    {
+      "word": "cost",
+      "freq": 394
+    }
+  ],
+  "ddd;": [
+    {
+      "word": "deep",
+      "freq": 445
+    }
+  ],
+  "djljfj": [
+    {
+      "word": "enough",
+      "freq": 2484
+    }
+  ],
+  "fafafd": [
+    {
+      "word": "garage",
+      "freq": 164
+    }
+  ],
+  "kjfl": [
+    {
+      "word": "into",
+      "freq": 5686
+    }
+  ],
+  "kdd;": [
+    {
+      "word": "keep",
+      "freq": 4549
+    }
+  ],
+  "jkss": [
+    {
+      "word": "miss",
+      "freq": 2318
+    }
+  ],
+  "lfjdf": [
+    {
+      "word": "other",
+      "freq": 3345
+    }
+  ],
+  ";lajdf": [
+    {
+      "word": "player",
+      "freq": 365
+    }
+  ],
+  "fdjakj": [
+    {
+      "word": "remain",
+      "freq": 185
+    }
+  ],
+  "skdd": [
+    {
+      "word": "side",
+      "freq": 1366
+    }
+  ],
+  "sljfj": [
+    {
+      "word": "south",
+      "freq": 195
+    }
+  ],
+  "ffjd": [
+    {
+      "word": "true",
+      "freq": 1653
+    }
+  ],
+  "jsd": [
+    {
+      "word": "use",
+      "freq": 5245
+    }
+  ],
+  "sjl": [
+    {
+      "word": "who",
+      "freq": 13916
+    }
+  ],
+  "alfdadj": [
+    {
+      "word": "already",
+      "freq": 2077
+    }
+  ],
+  "fddljd": [
+    {
+      "word": "become",
+      "freq": 1335
+    }
+  ],
+  "dajsd": [
+    {
+      "word": "cause",
+      "freq": 374
+    }
+  ],
+  "ddffakj": [
+    {
+      "word": "certain",
+      "freq": 269
+    }
+  ],
+  "ddsdfkfd": [
+    {
+      "word": "describe",
+      "freq": 183
+    }
+  ],
+  "ds;ddf": [
+    {
+      "word": "expect",
+      "freq": 667
+    }
+  ],
+  "fadf": [
+    {
+      "word": "fact",
+      "freq": 1201
+    }
+  ],
+  "kjdljdd": [
+    {
+      "word": "include",
+      "freq": 137
+    }
+  ],
+  "ldf": [
+    {
+      "word": "let",
+      "freq": 15257
+    },
+    {
+      "word": "leg",
+      "freq": 725
+    }
+  ],
+  "jljdjf": [
+    {
+      "word": "moment",
+      "freq": 1058
+    }
+  ],
+  ";lsdf": [
+    {
+      "word": "power",
+      "freq": 730
+    }
+  ],
+  ";flfkdd": [
+    {
+      "word": "provide",
+      "freq": 154
+    }
+  ],
+  "fd;lff": [
+    {
+      "word": "report",
+      "freq": 333
+    }
+  ],
+  "sdaf": [
+    {
+      "word": "seat",
+      "freq": 951
+    }
+  ],
+  "skjfld": [
+    {
+      "word": "single",
+      "freq": 734
+    }
+  ],
+  "sjsfdj": [
+    {
+      "word": "system",
+      "freq": 538
+    }
+  ],
+  "fjfljfj": [
+    {
+      "word": "through",
+      "freq": 2810
+    }
+  ],
+  "sjkdj": [
+    {
+      "word": "which",
+      "freq": 2903
+    }
+  ],
+  "a;;ld": [
+    {
+      "word": "apple",
+      "freq": 304
+    }
+  ],
+  "fljd": [
+    {
+      "word": "blue",
+      "freq": 564
+    }
+  ],
+  "dlldk": [
+    {
+      "word": "clock",
+      "freq": 186
+    }
+  ],
+  "dllljf": [
+    {
+      "word": "colour",
+      "freq": 1
+    }
+  ],
+  "dkffdfdjf": [
+    {
+      "word": "different",
+      "freq": 1307
+    }
+  ],
+  "fklj": [
+    {
+      "word": "film",
+      "freq": 470
+    }
+  ],
+  "jljf": [
+    {
+      "word": "your",
+      "freq": 39164
+    },
+    {
+      "word": "hour",
+      "freq": 2313
+    }
+  ],
+  "llfd": [
+    {
+      "word": "love",
+      "freq": 8010
+    }
+  ],
+  "jjjfdf": [
+    {
+      "word": "number",
+      "freq": 2005
+    }
+  ],
+  ";djdkl": [
+    {
+      "word": "pencil",
+      "freq": 169
+    }
+  ],
+  "ajkdk": [
+    {
+      "word": "quick",
+      "freq": 744
+    }
+  ],
+  "fakj": [
+    {
+      "word": "rain",
+      "freq": 172
+    }
+  ],
+  "skj;ld": [
+    {
+      "word": "simple",
+      "freq": 560
+    }
+  ],
+  "sjjjdf": [
+    {
+      "word": "summer",
+      "freq": 473
+    }
+  ],
+  "flsj": [
+    {
+      "word": "town",
+      "freq": 1709
+    }
+  ],
+  "skjdls": [
+    {
+      "word": "window",
+      "freq": 599
+    }
+  ],
+  "addfdss": [
+    {
+      "word": "address",
+      "freq": 211
+    }
+  ],
+  "fjkldkjf": [
+    {
+      "word": "building",
+      "freq": 1019
+    }
+  ],
+  "dlj;jfdf": [
+    {
+      "word": "computer",
+      "freq": 480
+    }
+  ],
+  "dflss": [
+    {
+      "word": "cross",
+      "freq": 233
+    }
+  ],
+  "ddsk": [
+    {
+      "word": "desk",
+      "freq": 461
+    }
+  ],
+  "fksj": [
+    {
+      "word": "fish",
+      "freq": 600
+    }
+  ],
+  "flass": [
+    {
+      "word": "glass",
+      "freq": 357
+    }
+  ],
+  "kdd": [
+    {
+      "word": "ice",
+      "freq": 834
+    }
+  ],
+  "kdj": [
+    {
+      "word": "key",
+      "freq": 865
+    }
+  ],
+  "jkjjfd (j)": [
+    {
+      "word": "minute (n)",
+      "freq": 1
+    }
+  ],
+  "lffkdd": [
+    {
+      "word": "office",
+      "freq": 1673
+    }
+  ],
+  ";afdjf": [
+    {
+      "word": "parent",
+      "freq": 1521
+    }
+  ],
+  ";lsf": [
+    {
+      "word": "post",
+      "freq": 87
+    }
+  ],
+  "fldk": [
+    {
+      "word": "rock",
+      "freq": 400
+    }
+  ],
+  "sdafdj": [
+    {
+      "word": "search",
+      "freq": 174
+    }
+  ],
+  "s;lff": [
+    {
+      "word": "sport",
+      "freq": 511
+    }
+  ],
+  "fda": [
+    {
+      "word": "tea",
+      "freq": 369
+    }
+  ],
+  "falldj": [
+    {
+      "word": "valley",
+      "freq": 56
+    }
+  ],
+  "salk": [
+    {
+      "word": "walk",
+      "freq": 2131
+    }
+  ],
+  "akf;lff": [
+    {
+      "word": "airport",
+      "freq": 254
+    }
+  ],
+  "fafj": [
+    {
+      "word": "baby",
+      "freq": 4676
+    },
+    {
+      "word": "farm",
+      "freq": 299
+    },
+    {
+      "word": "bath",
+      "freq": 232
+    }
+  ],
+  "ddjffal": [
+    {
+      "word": "central",
+      "freq": 114
+    }
+  ],
+  "dkfddfklj": [
+    {
+      "word": "direction",
+      "freq": 182
+    }
+  ],
+  "dlllaf": [
+    {
+      "word": "dollar",
+      "freq": 2485
+    }
+  ],
+  "ffjkf": [
+    {
+      "word": "fruit",
+      "freq": 249
+    }
+  ],
+  "fkff": [
+    {
+      "word": "gift",
+      "freq": 974
+    }
+  ],
+  "jkfj": [
+    {
+      "word": "high",
+      "freq": 1602
+    }
+  ],
+  "klljdss": [
+    {
+      "word": "illness",
+      "freq": 56
+    }
+  ],
+  "jklk": [
+    {
+      "word": "milk",
+      "freq": 512
+    }
+  ],
+  ";kddd": [
+    {
+      "word": "piece",
+      "freq": 913
+    }
+  ],
+  ";flfddf": [
+    {
+      "word": "protect",
+      "freq": 316
+    }
+  ],
+  "skjdd": [
+    {
+      "word": "since",
+      "freq": 1859
+    }
+  ],
+  "slls": [
+    {
+      "word": "slow",
+      "freq": 216
+    }
+  ],
+  "sjkld": [
+    {
+      "word": "while",
+      "freq": 1620
+    },
+    {
+      "word": "smile",
+      "freq": 278
+    }
+  ],
+  "fkdkdf": [
+    {
+      "word": "ticket",
+      "freq": 1006
+    }
+  ],
+  "sdll": [
+    {
+      "word": "well",
+      "freq": 28025
+    },
+    {
+      "word": "sell",
+      "freq": 1369
+    }
+  ],
+  "addkddjf": [
+    {
+      "word": "accident",
+      "freq": 410
+    }
+  ],
+  "fllld": [
+    {
+      "word": "blood",
+      "freq": 542
+    }
+  ],
+  "fjskjdss": [
+    {
+      "word": "business",
+      "freq": 1542
+    }
+  ],
+  "djfkjf": [
+    {
+      "word": "during",
+      "freq": 507
+    }
+  ],
+  "dfdj": [
+    {
+      "word": "even",
+      "freq": 6221
+    }
+  ],
+  "flllf": [
+    {
+      "word": "floor",
+      "freq": 634
+    }
+  ],
+  "fdjdfal": [
+    {
+      "word": "general",
+      "freq": 200
+    }
+  ],
+  "djllsd": [
+    {
+      "word": "choose",
+      "freq": 588
+    }
+  ],
+  "kjflfj": [
+    {
+      "word": "inform",
+      "freq": 91
+    }
+  ],
+  "lkffld": [
+    {
+      "word": "little",
+      "freq": 10258
+    }
+  ],
+  "jddfkjf": [
+    {
+      "word": "meeting",
+      "freq": 4185
+    }
+  ],
+  "lfddf": [
+    {
+      "word": "order",
+      "freq": 966
+    }
+  ],
+  ";affj": [
+    {
+      "word": "party",
+      "freq": 2855
+    }
+  ],
+  ";kjk": [
+    {
+      "word": "pink",
+      "freq": 162
+    }
+  ],
+  "fd;lj": [
+    {
+      "word": "reply",
+      "freq": 1
+    }
+  ],
+  "sjfaf": [
+    {
+      "word": "sugar",
+      "freq": 268
+    }
+  ],
+  "ffafdl": [
+    {
+      "word": "travel",
+      "freq": 208
+    }
+  ],
+  "fkfjs": [
+    {
+      "word": "virus",
+      "freq": 57
+    }
+  ],
+  "safdj": [
+    {
+      "word": "watch",
+      "freq": 3351
+    }
+  ],
+  "ajlfjdf": [
+    {
+      "word": "another",
+      "freq": 3083
+    }
+  ],
+  "fdlkdfd": [
+    {
+      "word": "believe",
+      "freq": 4502
+    }
+  ],
+  "flfj": [
+    {
+      "word": "both",
+      "freq": 1687
+    },
+    {
+      "word": "born",
+      "freq": 572
+    },
+    {
+      "word": "form",
+      "freq": 328
+    }
+  ],
+  "dfaaj": [
+    {
+      "word": "crazy",
+      "freq": 2291
+    }
+  ],
+  "dj;": [
+    {
+      "word": "cup",
+      "freq": 468
+    }
+  ],
+  "dddkdd": [
+    {
+      "word": "decide",
+      "freq": 1109
+    }
+  ],
+  "dfdf": [
+    {
+      "word": "ever",
+      "freq": 5259
+    }
+  ],
+  "fkdld": [
+    {
+      "word": "field",
+      "freq": 397
+    }
+  ],
+  "jdaff": [
+    {
+      "word": "heart",
+      "freq": 1396
+    }
+  ],
+  "kjafkjd": [
+    {
+      "word": "imagine",
+      "freq": 544
+    }
+  ],
+  "lkjd": [
+    {
+      "word": "line",
+      "freq": 1406
+    }
+  ],
+  "jdaf": [
+    {
+      "word": "year",
+      "freq": 5520
+    },
+    {
+      "word": "hear",
+      "freq": 5517
+    },
+    {
+      "word": "meat",
+      "freq": 352
+    },
+    {
+      "word": "near",
+      "freq": 250
+    }
+  ],
+  "lfdf": [
+    {
+      "word": "over",
+      "freq": 8041
+    }
+  ],
+  ";jll": [
+    {
+      "word": "pull",
+      "freq": 1118
+    }
+  ],
+  "fkjf": [
+    {
+      "word": "ring",
+      "freq": 625
+    }
+  ],
+  "skjklaf": [
+    {
+      "word": "similar",
+      "freq": 59
+    }
+  ],
+  "s;ddd": [
+    {
+      "word": "speed",
+      "freq": 263
+    }
+  ],
+  "fjaj": [
+    {
+      "word": "than",
+      "freq": 4671
+    }
+  ],
+  "aflfd": [
+    {
+      "word": "above",
+      "freq": 205
+    }
+  ],
+  "fdfkj": [
+    {
+      "word": "begin",
+      "freq": 692
+    }
+  ],
+  "ddjfjfj": [
+    {
+      "word": "century",
+      "freq": 130
+    }
+  ],
+  "dljskddf": [
+    {
+      "word": "consider",
+      "freq": 500
+    }
+  ],
+  "dajfdfljs": [
+    {
+      "word": "dangerous",
+      "freq": 338
+    }
+  ],
+  "dafk": [
+    {
+      "word": "dark",
+      "freq": 486
+    }
+  ],
+  "dsdjajfd": [
+    {
+      "word": "exchange",
+      "freq": 74
+    }
+  ],
+  "flfdfjjdjf": [
+    {
+      "word": "government",
+      "freq": 328
+    }
+  ],
+  "jjj;": [
+    {
+      "word": "jump",
+      "freq": 569
+    }
+  ],
+  "jafdfkal": [
+    {
+      "word": "material",
+      "freq": 139
+    }
+  ],
+  ";asf": [
+    {
+      "word": "past",
+      "freq": 342
+    }
+  ],
+  ";fldjdd": [
+    {
+      "word": "produce",
+      "freq": 75
+    }
+  ],
+  "fdjlfd": [
+    {
+      "word": "remove",
+      "freq": 189
+    }
+  ],
+  "sddfdf": [
+    {
+      "word": "secret",
+      "freq": 783
+    }
+  ],
+  "sljf": [
+    {
+      "word": "song",
+      "freq": 1154
+    }
+  ],
+  "fdldfksklj": [
+    {
+      "word": "television",
+      "freq": 1716
+    }
+  ],
+  "faljd": [
+    {
+      "word": "value",
+      "freq": 148
+    }
+  ],
+  "afj": [
+    {
+      "word": "arm",
+      "freq": 561
+    }
+  ],
+  "fdjkjd": [
+    {
+      "word": "behind",
+      "freq": 866
+    }
+  ],
+  "dasd": [
+    {
+      "word": "case",
+      "freq": 1056
+    }
+  ],
+  "dlllddf": [
+    {
+      "word": "collect",
+      "freq": 149
+    }
+  ],
+  "dfas": [
+    {
+      "word": "draw",
+      "freq": 388
+    }
+  ],
+  "dsajkjd": [
+    {
+      "word": "examine",
+      "freq": 49
+    }
+  ],
+  "fall": [
+    {
+      "word": "fall",
+      "freq": 1400
+    },
+    {
+      "word": "tall",
+      "freq": 298
+    }
+  ],
+  "ffls": [
+    {
+      "word": "grow",
+      "freq": 1021
+    }
+  ],
+  "kjjddkafdlj": [
+    {
+      "word": "immediately",
+      "freq": 181
+    }
+  ],
+  "lls": [
+    {
+      "word": "low",
+      "freq": 326
+    }
+  ],
+  "jkjd": [
+    {
+      "word": "mine",
+      "freq": 53316
+    },
+    {
+      "word": "mind",
+      "freq": 1360
+    }
+  ],
+  "lff": [
+    {
+      "word": "off",
+      "freq": 6967
+    }
+  ],
+  ";ass": [
+    {
+      "word": "pass",
+      "freq": 915
+    }
+  ],
+  "fadkl": [
+    {
+      "word": "radio",
+      "freq": 215
+    }
+  ],
+  "sjld": [
+    {
+      "word": "shoe",
+      "freq": 913
+    }
+  ],
+  "sfafklj": [
+    {
+      "word": "station",
+      "freq": 354
+    }
+  ],
+  "sjfd": [
+    {
+      "word": "sure",
+      "freq": 6177
+    }
+  ],
+  "jsjal": [
+    {
+      "word": "usual",
+      "freq": 141
+    }
+  ],
+  "afl": [
+    {
+      "word": "ago",
+      "freq": 1431
+    }
+  ],
+  "alljf": [
+    {
+      "word": "along",
+      "freq": 790
+    }
+  ],
+  "fdaf": [
+    {
+      "word": "bear",
+      "freq": 572
+    }
+  ],
+  "dljdkfklj": [
+    {
+      "word": "condition",
+      "freq": 190
+    }
+  ],
+  "dkfddf": [
+    {
+      "word": "direct",
+      "freq": 71
+    }
+  ],
+  "ddfd": [
+    {
+      "word": "edge",
+      "freq": 91
+    }
+  ],
+  "jalf": [
+    {
+      "word": "half",
+      "freq": 602
+    }
+  ],
+  "djkdkdj": [
+    {
+      "word": "chicken",
+      "freq": 811
+    }
+  ],
+  "kjdfdasd": [
+    {
+      "word": "increase",
+      "freq": 65
+    }
+  ],
+  "jafaakjd": [
+    {
+      "word": "magazine",
+      "freq": 411
+    }
+  ],
+  "jafjfd": [
+    {
+      "word": "nature",
+      "freq": 265
+    }
+  ],
+  ";lafd": [
+    {
+      "word": "plate",
+      "freq": 300
+    }
+  ],
+  ";llf": [
+    {
+      "word": "poor",
+      "freq": 790
+    }
+  ],
+  "fds;ddf": [
+    {
+      "word": "respect",
+      "freq": 315
+    }
+  ],
+  "sjaf;": [
+    {
+      "word": "sharp",
+      "freq": 111
+    }
+  ],
+  "sljdfkjds": [
+    {
+      "word": "sometimes",
+      "freq": 1258
+    }
+  ],
+  "sfkll": [
+    {
+      "word": "still",
+      "freq": 5024
+    }
+  ],
+  "sljld": [
+    {
+      "word": "would",
+      "freq": 11923
+    }
+  ],
+  "add": [
+    {
+      "word": "add",
+      "freq": 328
+    }
+  ],
+  "ajljf": [
+    {
+      "word": "among",
+      "freq": 131
+    }
+  ],
+  "fjklf": [
+    {
+      "word": "built",
+      "freq": 1019
+    }
+  ],
+  "dljjlj": [
+    {
+      "word": "common",
+      "freq": 303
+    }
+  ],
+  "dd;djd": [
+    {
+      "word": "depend",
+      "freq": 145
+    }
+  ],
+  "daflj": [
+    {
+      "word": "early",
+      "freq": 892
+    }
+  ],
+  "ja;;dj": [
+    {
+      "word": "happen",
+      "freq": 5854
+    }
+  ],
+  "djddk": [
+    {
+      "word": "check",
+      "freq": 2217
+    }
+  ],
+  "kjffldjdd": [
+    {
+      "word": "introduce",
+      "freq": 294
+    }
+  ],
+  "ldss": [
+    {
+      "word": "less",
+      "freq": 577
+    }
+  ],
+  "jafk": [
+    {
+      "word": "mark",
+      "freq": 138
+    }
+  ],
+  ";afkdjf": [
+    {
+      "word": "patient",
+      "freq": 162
+    }
+  ],
+  ";dfja;s": [
+    {
+      "word": "perhaps",
+      "freq": 560
+    }
+  ],
+  "fksd": [
+    {
+      "word": "rise",
+      "freq": 199
+    }
+  ],
+  "sdjsd": [
+    {
+      "word": "sense",
+      "freq": 789
+    }
+  ],
+  "sjlff": [
+    {
+      "word": "short",
+      "freq": 548
+    }
+  ],
+  "sfafd": [
+    {
+      "word": "state",
+      "freq": 550
+    }
+  ],
+  "fjfj": [
+    {
+      "word": "turn",
+      "freq": 3042
+    }
+  ],
+  "skll": [
+    {
+      "word": "will",
+      "freq": 11923
+    }
+  ],
+  "adf": [
+    {
+      "word": "act",
+      "freq": 958
+    }
+  ],
+  "a;;daf": [
+    {
+      "word": "appear",
+      "freq": 380
+    }
+  ],
+  "ffdak": [
+    {
+      "word": "break",
+      "freq": 2921
+    }
+  ],
+  "dljfsd": [
+    {
+      "word": "course",
+      "freq": 2585
+    }
+  ],
+  "dljff": [
+    {
+      "word": "court",
+      "freq": 355
+    },
+    {
+      "word": "doubt",
+      "freq": 146
+    }
+  ],
+  "dksdjss": [
+    {
+      "word": "discuss",
+      "freq": 306
+    }
+  ],
+  "dffddf": [
+    {
+      "word": "effect",
+      "freq": 178
+    }
+  ],
+  "jlld": [
+    {
+      "word": "hold",
+      "freq": 2574
+    },
+    {
+      "word": "hole",
+      "freq": 494
+    }
+  ],
+  "kjsddf": [
+    {
+      "word": "insect",
+      "freq": 1
+    }
+  ],
+  "jdaj": [
+    {
+      "word": "mean",
+      "freq": 10833
+    }
+  ],
+  "ljdd": [
+    {
+      "word": "once",
+      "freq": 1937
+    }
+  ],
+  ";jf;lsd": [
+    {
+      "word": "purpose",
+      "freq": 230
+    }
+  ],
+  "fdallj": [
+    {
+      "word": "really",
+      "freq": 15209
+    }
+  ],
+  "fkdd": [
+    {
+      "word": "ride",
+      "freq": 811
+    },
+    {
+      "word": "rice",
+      "freq": 76
+    }
+  ],
+  "skfjafklj": [
+    {
+      "word": "situation",
+      "freq": 499
+    }
+  ],
+  "sjdddss": [
+    {
+      "word": "success",
+      "freq": 168
+    }
+  ],
+  "fjljfj": [
+    {
+      "word": "though",
+      "freq": 1050
+    }
+  ],
+  "j;lj": [
+    {
+      "word": "upon",
+      "freq": 260
+    }
+  ],
+  "saf": [
+    {
+      "word": "war",
+      "freq": 801
+    }
+  ],
+  "affdfjllj": [
+    {
+      "word": "afternoon",
+      "freq": 471
+    }
+  ],
+  "fjsj": [
+    {
+      "word": "busy",
+      "freq": 597
+    },
+    {
+      "word": "rush",
+      "freq": 123
+    }
+  ],
+  "dlffdd": [
+    {
+      "word": "coffee",
+      "freq": 1147
+    }
+  ],
+  "ddfakl": [
+    {
+      "word": "detail",
+      "freq": 151
+    }
+  ],
+  "ds;ddkallj": [
+    {
+      "word": "especially",
+      "freq": 282
+    }
+  ],
+  "fkjksj": [
+    {
+      "word": "finish",
+      "freq": 937
+    }
+  ],
+  "ffljjd": [
+    {
+      "word": "ground",
+      "freq": 359
+    }
+  ],
+  "jllkdaj": [
+    {
+      "word": "holiday",
+      "freq": 304
+    }
+  ],
+  "djlkdd": [
+    {
+      "word": "choice",
+      "freq": 732
+    }
+  ],
+  "kkfdjdj": [
+    {
+      "word": "kitchen",
+      "freq": 439
+    }
+  ],
+  "ldsslj": [
+    {
+      "word": "lesson",
+      "freq": 488
+    }
+  ],
+  "jjskd": [
+    {
+      "word": "music",
+      "freq": 809
+    }
+  ],
+  "lfajfd": [
+    {
+      "word": "orange",
+      "freq": 101
+    }
+  ],
+  ";dffddf (adj)": [
+    {
+      "word": "perfect (adj)",
+      "freq": 1
+    }
+  ],
+  "fdajdsf": [
+    {
+      "word": "request",
+      "freq": 81
+    }
+  ],
+  "sdaslj": [
+    {
+      "word": "season",
+      "freq": 292
+    }
+  ],
+  "skdk": [
+    {
+      "word": "sick",
+      "freq": 1133
+    }
+  ],
+  "fljlffls": [
+    {
+      "word": "tomorrow",
+      "freq": 1964
+    }
+  ],
+  "sdldljd": [
+    {
+      "word": "welcome",
+      "freq": 911
+    }
+  ],
+  "jdsfdfdaj": [
+    {
+      "word": "yesterday",
+      "freq": 528
+    }
+  ],
+  "affdd": [
+    {
+      "word": "agree",
+      "freq": 853
+    }
+  ],
+  "ffkdfd": [
+    {
+      "word": "bridge",
+      "freq": 151
+    }
+  ],
+  "dakd": [
+    {
+      "word": "cake",
+      "freq": 672
+    }
+  ],
+  "djsfljdf": [
+    {
+      "word": "customer",
+      "freq": 271
+    }
+  ],
+  "djfdf": [
+    {
+      "word": "enter",
+      "freq": 294
+    }
+  ],
+  "fjfjfd": [
+    {
+      "word": "future",
+      "freq": 541
+    }
+  ],
+  "fdjfldjaj": [
+    {
+      "word": "gentleman",
+      "freq": 936
+    }
+  ],
+  "jakf": [
+    {
+      "word": "hair",
+      "freq": 1359
+    }
+  ],
+  "kjafd": [
+    {
+      "word": "image",
+      "freq": 165
+    }
+  ],
+  "lajfjafd": [
+    {
+      "word": "language",
+      "freq": 238
+    }
+  ],
+  "jafkdf": [
+    {
+      "word": "market",
+      "freq": 259
+    }
+  ],
+  ";lajd": [
+    {
+      "word": "plane",
+      "freq": 376
+    }
+  ],
+  ";fkfafd": [
+    {
+      "word": "private",
+      "freq": 344
+    }
+  ],
+  "fdsfajfajf": [
+    {
+      "word": "restaurant",
+      "freq": 652
+    }
+  ],
+  "skad": [
+    {
+      "word": "size",
+      "freq": 394
+    }
+  ],
+  "skj": [
+    {
+      "word": "win",
+      "freq": 2162
+    },
+    {
+      "word": "sky",
+      "freq": 213
+    }
+  ],
+  "sjaff": [
+    {
+      "word": "smart",
+      "freq": 876
+    }
+  ],
+  "fjajk": [
+    {
+      "word": "thank",
+      "freq": 6716
+    }
+  ],
+  "sdafjdf": [
+    {
+      "word": "weather",
+      "freq": 174
+    }
+  ],
+  "adflf": [
+    {
+      "word": "actor",
+      "freq": 287
+    }
+  ],
+  "flffld": [
+    {
+      "word": "bottle",
+      "freq": 473
+    }
+  ],
+  "dllfj": [
+    {
+      "word": "cloth",
+      "freq": 1
+    }
+  ],
+  "dlaf": [
+    {
+      "word": "coat",
+      "freq": 364
+    }
+  ],
+  "ddsfflj": [
+    {
+      "word": "destroy",
+      "freq": 516
+    }
+  ],
+  "dfdfjsjdfd": [
+    {
+      "word": "everywhere",
+      "freq": 304
+    }
+  ],
+  "fkjfdf": [
+    {
+      "word": "finger",
+      "freq": 553
+    }
+  ],
+  "fjkdd": [
+    {
+      "word": "guide",
+      "freq": 75
+    }
+  ],
+  "kj;flfd": [
+    {
+      "word": "improve",
+      "freq": 78
+    }
+  ],
+  "kjkfd": [
+    {
+      "word": "knife",
+      "freq": 237
+    }
+  ],
+  "laffd": [
+    {
+      "word": "large",
+      "freq": 355
+    }
+  ],
+  "jksfakd": [
+    {
+      "word": "mistake",
+      "freq": 771
+    }
+  ],
+  "lddaj": [
+    {
+      "word": "ocean",
+      "freq": 206
+    }
+  ],
+  ";lajf": [
+    {
+      "word": "plant",
+      "freq": 311
+    }
+  ],
+  "fd;daf": [
+    {
+      "word": "repeat",
+      "freq": 154
+    }
+  ],
+  "salf": [
+    {
+      "word": "salt",
+      "freq": 127
+    }
+  ],
+  "s;ddkal": [
+    {
+      "word": "special",
+      "freq": 1234
+    }
+  ],
+  "jjdld": [
+    {
+      "word": "uncle",
+      "freq": 647
+    }
+  ],
+  "skjfdf": [
+    {
+      "word": "winter",
+      "freq": 136
+    }
+  ],
+  "ajffj": [
+    {
+      "word": "angry",
+      "freq": 470
+    }
+  ],
+  "affkdld": [
+    {
+      "word": "article",
+      "freq": 114
+    }
+  ],
+  "fjkld": [
+    {
+      "word": "build",
+      "freq": 1019
+    }
+  ],
+  "dkffj": [
+    {
+      "word": "dirty",
+      "freq": 475
+    }
+  ],
+  "dsdd;f": [
+    {
+      "word": "except",
+      "freq": 738
+    }
+  ],
+  "fajljs": [
+    {
+      "word": "famous",
+      "freq": 318
+    }
+  ],
+  "fas": [
+    {
+      "word": "gas",
+      "freq": 384
+    }
+  ],
+  "jlfdl": [
+    {
+      "word": "hotel",
+      "freq": 411
+    }
+  ],
+  "djda;": [
+    {
+      "word": "cheap",
+      "freq": 246
+    }
+  ],
+  "kjfdffkds": [
+    {
+      "word": "interview",
+      "freq": 246
+    }
+  ],
+  "jllj": [
+    {
+      "word": "moon",
+      "freq": 265
+    }
+  ],
+  "jkdd": [
+    {
+      "word": "nice",
+      "freq": 5059
+    },
+    {
+      "word": "hide",
+      "freq": 662
+    }
+  ],
+  ";fd;afd": [
+    {
+      "word": "prepare",
+      "freq": 459
+    }
+  ],
+  ";fkslj": [
+    {
+      "word": "prison",
+      "freq": 375
+    }
+  ],
+  "sddj": [
+    {
+      "word": "seem",
+      "freq": 2165
+    }
+  ],
+  "skkff": [
+    {
+      "word": "skirt",
+      "freq": 68
+    }
+  ],
+  "sffajfd": [
+    {
+      "word": "strange",
+      "freq": 402
+    }
+  ],
+  "ffakj": [
+    {
+      "word": "train",
+      "freq": 409
+    }
+  ],
+  "safj": [
+    {
+      "word": "warm",
+      "freq": 364
+    }
+  ],
+  "addljjf": [
+    {
+      "word": "account",
+      "freq": 230
+    }
+  ],
+  "dlljd": [
+    {
+      "word": "cloud",
+      "freq": 124
+    }
+  ],
+  "dljflffafld": [
+    {
+      "word": "comfortable",
+      "freq": 412
+    }
+  ],
+  "dajafd": [
+    {
+      "word": "damage",
+      "freq": 113
+    }
+  ],
+  "djsf": [
+    {
+      "word": "dust",
+      "freq": 99
+    }
+  ],
+  "dsdfdksd": [
+    {
+      "word": "exercise",
+      "freq": 137
+    }
+  ],
+  "fafljfkfd": [
+    {
+      "word": "favourite",
+      "freq": 1
+    }
+  ],
+  "jls;kfal": [
+    {
+      "word": "hospital",
+      "freq": 604
+    }
+  ],
+  "jlkd": [
+    {
+      "word": "joke",
+      "freq": 1179
+    }
+  ],
+  "jdssafd": [
+    {
+      "word": "message",
+      "freq": 748
+    }
+  ],
+  "jkfjf": [
+    {
+      "word": "night",
+      "freq": 5761
+    }
+  ],
+  ";akjf": [
+    {
+      "word": "paint",
+      "freq": 274
+    }
+  ],
+  ";ldasjfd": [
+    {
+      "word": "pleasure",
+      "freq": 387
+    }
+  ],
+  "fdlafkljsjk;": [
+    {
+      "word": "relationship",
+      "freq": 1179
+    }
+  ],
+  "sdkdjdd": [
+    {
+      "word": "science",
+      "freq": 386
+    }
+  ],
+  "sdfkljs": [
+    {
+      "word": "serious",
+      "freq": 974
+    }
+  ],
+  "s;djd": [
+    {
+      "word": "spend",
+      "freq": 1680
+    }
+  ],
+  "fkfdd": [
+    {
+      "word": "tired",
+      "freq": 582
+    }
+  ],
+  "sfljf": [
+    {
+      "word": "wrong",
+      "freq": 3294
+    }
+  ],
+  "ajljjf": [
+    {
+      "word": "amount",
+      "freq": 161
+    }
+  ],
+  "fajk": [
+    {
+      "word": "bank",
+      "freq": 322
+    }
+  ],
+  "fflsj": [
+    {
+      "word": "brown",
+      "freq": 240
+    }
+  ],
+  "dflsd": [
+    {
+      "word": "crowd",
+      "freq": 203
+    }
+  ],
+  "ddal": [
+    {
+      "word": "deal",
+      "freq": 1503
+    }
+  ],
+  "djfkjd": [
+    {
+      "word": "engine",
+      "freq": 113
+    }
+  ],
+  "flllls": [
+    {
+      "word": "follow",
+      "freq": 833
+    }
+  ],
+  "djldllafd": [
+    {
+      "word": "chocolate",
+      "freq": 445
+    }
+  ],
+  "kjdkfkdjal": [
+    {
+      "word": "individual",
+      "freq": 42
+    }
+  ],
+  "ldff": [
+    {
+      "word": "left",
+      "freq": 5529
+    }
+  ],
+  "jdal": [
+    {
+      "word": "meal",
+      "freq": 333
+    }
+  ],
+  "lkl": [
+    {
+      "word": "oil",
+      "freq": 256
+    }
+  ],
+  ";akj": [
+    {
+      "word": "pain",
+      "freq": 465
+    }
+  ],
+  ";flfaflj": [
+    {
+      "word": "probably",
+      "freq": 1916
+    }
+  ],
+  "fd;ladd": [
+    {
+      "word": "replace",
+      "freq": 297
+    }
+  ],
+  "sldkdfj": [
+    {
+      "word": "society",
+      "freq": 261
+    }
+  ],
+  "sajafd": [
+    {
+      "word": "square",
+      "freq": 279
+    }
+  ],
+  "sfd;": [
+    {
+      "word": "step",
+      "freq": 500
+    }
+  ],
+  "fdj;dfafjfd": [
+    {
+      "word": "temperature",
+      "freq": 78
+    }
+  ],
+  "jjkfdfskfj": [
+    {
+      "word": "university",
+      "freq": 151
+    }
+  ],
+  "addd;f": [
+    {
+      "word": "accept",
+      "freq": 504
+    }
+  ],
+  "adfajdd": [
+    {
+      "word": "advance",
+      "freq": 1
+    }
+  ],
+  "faf": [
+    {
+      "word": "fat",
+      "freq": 1393
+    },
+    {
+      "word": "bag",
+      "freq": 899
+    }
+  ],
+  "da;fakj": [
+    {
+      "word": "captain",
+      "freq": 539
+    }
+  ],
+  "ddjffd": [
+    {
+      "word": "centre",
+      "freq": 1
+    }
+  ],
+  "ddjajd": [
+    {
+      "word": "demand",
+      "freq": 141
+    }
+  ],
+  "djdjj": [
+    {
+      "word": "enemy",
+      "freq": 184
+    }
+  ],
+  "fadflfj": [
+    {
+      "word": "factory",
+      "freq": 154
+    }
+  ],
+  "jjjffj": [
+    {
+      "word": "hungry",
+      "freq": 499
+    }
+  ],
+  "klldfal": [
+    {
+      "word": "illegal",
+      "freq": 169
+    }
+  ],
+  "las": [
+    {
+      "word": "law",
+      "freq": 570
+    }
+  ],
+  "jlsd": [
+    {
+      "word": "nose",
+      "freq": 525
+    }
+  ],
+  ";dffll": [
+    {
+      "word": "petrol",
+      "freq": 1
+    }
+  ],
+  ";fljd": [
+    {
+      "word": "proud",
+      "freq": 649
+    }
+  ],
+  "fds;ljskfld": [
+    {
+      "word": "responsible",
+      "freq": 216
+    }
+  ],
+  "sflfd": [
+    {
+      "word": "store",
+      "freq": 1107
+    }
+  ],
+  "sjdddssfjl": [
+    {
+      "word": "successful",
+      "freq": 175
+    }
+  ],
+  "sskj": [
+    {
+      "word": "swim",
+      "freq": 250
+    }
+  ],
+  "fl;": [
+    {
+      "word": "top",
+      "freq": 780
+    }
+  ],
+  "afaklafld": [
+    {
+      "word": "available",
+      "freq": 204
+    }
+  ],
+  "flaf": [
+    {
+      "word": "boat",
+      "freq": 583
+    },
+    {
+      "word": "flat",
+      "freq": 84
+    }
+  ],
+  "flffls": [
+    {
+      "word": "borrow",
+      "freq": 300
+    }
+  ],
+  "dlasf": [
+    {
+      "word": "coast",
+      "freq": 100
+    }
+  ],
+  "ddskfj": [
+    {
+      "word": "design",
+      "freq": 200
+    }
+  ],
+  "ds;fdssklj": [
+    {
+      "word": "expression",
+      "freq": 115
+    }
+  ],
+  "jksflfj": [
+    {
+      "word": "history",
+      "freq": 544
+    }
+  ],
+  "kjjjfd": [
+    {
+      "word": "injure",
+      "freq": 56
+    }
+  ],
+  "ja;": [
+    {
+      "word": "map",
+      "freq": 150
+    }
+  ],
+  "lffakj": [
+    {
+      "word": "obtain",
+      "freq": 1
+    }
+  ],
+  ";daddfjl": [
+    {
+      "word": "peaceful",
+      "freq": 50
+    }
+  ],
+  ";fadfksd": [
+    {
+      "word": "practise",
+      "freq": 1
+    }
+  ],
+  "fdddjflj": [
+    {
+      "word": "recently",
+      "freq": 201
+    }
+  ],
+  "sja;d": [
+    {
+      "word": "shape",
+      "freq": 186
+    }
+  ],
+  "sklfdf": [
+    {
+      "word": "silver",
+      "freq": 90
+    }
+  ],
+  "sjlkd": [
+    {
+      "word": "smoke",
+      "freq": 574
+    }
+  ],
+  "fljdj": [
+    {
+      "word": "touch",
+      "freq": 991
+    }
+  ],
+  "sasj": [
+    {
+      "word": "wash",
+      "freq": 377
+    }
+  ],
+  "adfajfafd": [
+    {
+      "word": "advantage",
+      "freq": 162
+    }
+  ],
+  "affadk": [
+    {
+      "word": "attack",
+      "freq": 268
+    }
+  ],
+  "fjffdf": [
+    {
+      "word": "butter",
+      "freq": 293
+    }
+  ],
+  "dljf": [
+    {
+      "word": "club",
+      "freq": 979
+    }
+  ],
+  "dllldfd": [
+    {
+      "word": "college",
+      "freq": 757
+    }
+  ],
+  "ddffdd": [
+    {
+      "word": "degree",
+      "freq": 174
+    }
+  ],
+  "dsda;d": [
+    {
+      "word": "escape",
+      "freq": 178
+    }
+  ],
+  "fafd": [
+    {
+      "word": "gate",
+      "freq": 130
+    }
+  ],
+  "kjdd;djddjf": [
+    {
+      "word": "independent",
+      "freq": 55
+    }
+  ],
+  "lksfdj": [
+    {
+      "word": "listen",
+      "freq": 3744
+    }
+  ],
+  "jaffj": [
+    {
+      "word": "marry",
+      "freq": 2323
+    }
+  ],
+  "lfjddf": [
+    {
+      "word": "object",
+      "freq": 70
+    }
+  ],
+  ";afj": [
+    {
+      "word": "path",
+      "freq": 119
+    }
+  ],
+  "ajkdf": [
+    {
+      "word": "quiet",
+      "freq": 326
+    }
+  ],
+  "fdfjsd": [
+    {
+      "word": "refuse",
+      "freq": 142
+    }
+  ],
+  "sjfjddf (j)": [
+    {
+      "word": "subject (n)",
+      "freq": 1
+    }
+  ],
+  "sj;;lj": [
+    {
+      "word": "supply",
+      "freq": 136
+    }
+  ],
+  "fasfd": [
+    {
+      "word": "taste",
+      "freq": 351
+    }
+  ],
+  "jsjallj": [
+    {
+      "word": "usually",
+      "freq": 474
+    }
+  ],
+  "fdfdfafld": [
+    {
+      "word": "vegetable",
+      "freq": 107
+    }
+  ],
+  "affajfd": [
+    {
+      "word": "arrange",
+      "freq": 91
+    }
+  ],
+  "fdlls": [
+    {
+      "word": "below",
+      "freq": 124
+    }
+  ],
+  "dkfafdffd": [
+    {
+      "word": "cigarette",
+      "freq": 268
+    }
+  ],
+  "dlffafd": [
+    {
+      "word": "cottage",
+      "freq": 1
+    }
+  ],
+  "dd;affjdjf": [
+    {
+      "word": "department",
+      "freq": 300
+    }
+  ],
+  "dafj": [
+    {
+      "word": "earn",
+      "freq": 204
+    }
+  ],
+  "ffljf": [
+    {
+      "word": "front",
+      "freq": 1061
+    }
+  ],
+  "fdjfld": [
+    {
+      "word": "gentle",
+      "freq": 121
+    }
+  ],
+  "jaf": [
+    {
+      "word": "hat",
+      "freq": 991
+    }
+  ],
+  "kjsffjjdjf": [
+    {
+      "word": "instrument",
+      "freq": 43
+    }
+  ],
+  "jadjkjd": [
+    {
+      "word": "machine",
+      "freq": 853
+    }
+  ],
+  "jdss;a;df": [
+    {
+      "word": "newspaper",
+      "freq": 161
+    }
+  ],
+  ";afddl": [
+    {
+      "word": "parcel",
+      "freq": 1
+    }
+  ],
+  "fdlkfklj": [
+    {
+      "word": "religion",
+      "freq": 190
+    }
+  ],
+  "fd;akf": [
+    {
+      "word": "repair",
+      "freq": 49
+    }
+  ],
+  "sdffd": [
+    {
+      "word": "serve",
+      "freq": 393
+    }
+  ],
+  "sjljlddf": [
+    {
+      "word": "shoulder",
+      "freq": 175
+    }
+  ],
+  "ffk;": [
+    {
+      "word": "trip",
+      "freq": 671
+    }
+  ],
+  "fkllafd": [
+    {
+      "word": "village",
+      "freq": 142
+    }
+  ],
+  "sall": [
+    {
+      "word": "wall",
+      "freq": 563
+    }
+  ],
+  "affkfd": [
+    {
+      "word": "arrive",
+      "freq": 257
+    }
+  ],
+  "dllfjds": [
+    {
+      "word": "clothes",
+      "freq": 658
+    }
+  ],
+  "dlffddf": [
+    {
+      "word": "correct",
+      "freq": 199
+    }
+  ],
+  "dljfld": [
+    {
+      "word": "double",
+      "freq": 239
+    }
+  ],
+  "djflksj": [
+    {
+      "word": "English",
+      "freq": 240
+    }
+  ],
+  "flffdf": [
+    {
+      "word": "forget",
+      "freq": 2519
+    }
+  ],
+  "flal": [
+    {
+      "word": "goal",
+      "freq": 124
+    }
+  ],
+  "kkll": [
+    {
+      "word": "kill",
+      "freq": 3278
+    }
+  ],
+  "lasf": [
+    {
+      "word": "last",
+      "freq": 2639
+    }
+  ],
+  "jakj": [
+    {
+      "word": "main",
+      "freq": 133
+    }
+  ],
+  ";akf": [
+    {
+      "word": "pair",
+      "freq": 152
+    }
+  ],
+  ";fljksd": [
+    {
+      "word": "promise",
+      "freq": 1039
+    }
+  ],
+  "fdfjlaf": [
+    {
+      "word": "regular",
+      "freq": 310
+    }
+  ],
+  "sljdsjdfd": [
+    {
+      "word": "somewhere",
+      "freq": 592
+    }
+  ],
+  "s;add": [
+    {
+      "word": "space",
+      "freq": 844
+    }
+  ],
+  "fjdsd": [
+    {
+      "word": "these",
+      "freq": 56116
+    }
+  ],
+  "jsdfjl": [
+    {
+      "word": "useful",
+      "freq": 40
+    }
+  ],
+  "skfjljf": [
+    {
+      "word": "without",
+      "freq": 1910
+    }
+  ],
+  "ajkjal": [
+    {
+      "word": "animal",
+      "freq": 655
+    }
+  ],
+  "fddf": [
+    {
+      "word": "beer",
+      "freq": 985
+    }
+  ],
+  "dalj": [
+    {
+      "word": "calm",
+      "freq": 481
+    }
+  ],
+  "dl;j": [
+    {
+      "word": "copy",
+      "freq": 190
+    }
+  ],
+  "dksj": [
+    {
+      "word": "dish",
+      "freq": 247
+    }
+  ],
+  "ds;fdss": [
+    {
+      "word": "express",
+      "freq": 182
+    }
+  ],
+  "flfdkfj": [
+    {
+      "word": "foreign",
+      "freq": 88
+    }
+  ],
+  "fjdss": [
+    {
+      "word": "guess",
+      "freq": 3988
+    }
+  ],
+  "jjsfajd": [
+    {
+      "word": "husband",
+      "freq": 875
+    }
+  ],
+  "lkd": [
+    {
+      "word": "lie",
+      "freq": 1474
+    }
+  ],
+  "l;kjklj": [
+    {
+      "word": "opinion",
+      "freq": 202
+    }
+  ],
+  ";assdjfdf": [
+    {
+      "word": "passenger",
+      "freq": 58
+    }
+  ],
+  ";fdss": [
+    {
+      "word": "press",
+      "freq": 256
+    }
+  ],
+  "fjld": [
+    {
+      "word": "rule",
+      "freq": 826
+    }
+  ],
+  "sj;;lff": [
+    {
+      "word": "support",
+      "freq": 229
+    }
+  ],
+  "fjlsd": [
+    {
+      "word": "those",
+      "freq": 95271
+    }
+  ],
+  "sljddffjl": [
+    {
+      "word": "wonderful",
+      "freq": 890
+    }
+  ],
+  "affakd": [
+    {
+      "word": "afraid",
+      "freq": 1096
+    }
+  ],
+  "flafd": [
+    {
+      "word": "board",
+      "freq": 408
+    }
+  ],
+  "dkfdld": [
+    {
+      "word": "circle",
+      "freq": 184
+    }
+  ],
+  "dljjf": [
+    {
+      "word": "count",
+      "freq": 567
+    }
+  ],
+  "ddafj": [
+    {
+      "word": "death",
+      "freq": 692
+    }
+  ],
+  "dksdlfdf": [
+    {
+      "word": "discover",
+      "freq": 296
+    }
+  ],
+  "fjjjj": [
+    {
+      "word": "funny",
+      "freq": 2438
+    }
+  ],
+  "fjdsf": [
+    {
+      "word": "guest",
+      "freq": 388
+    }
+  ],
+  "jlfsd": [
+    {
+      "word": "horse",
+      "freq": 479
+    }
+  ],
+  "lakd": [
+    {
+      "word": "lake",
+      "freq": 196
+    }
+  ],
+  "jlddfj": [
+    {
+      "word": "modern",
+      "freq": 77
+    }
+  ],
+  "jdddssafj": [
+    {
+      "word": "necessary",
+      "freq": 145
+    }
+  ],
+  ";ldjfj": [
+    {
+      "word": "plenty",
+      "freq": 295
+    }
+  ],
+  ";flfkf": [
+    {
+      "word": "profit",
+      "freq": 93
+    }
+  ],
+  "fddjdd": [
+    {
+      "word": "reduce",
+      "freq": 69
+    }
+  ],
+  "sjafd": [
+    {
+      "word": "share",
+      "freq": 620
+    }
+  ],
+  "sfdal": [
+    {
+      "word": "steal",
+      "freq": 1073
+    }
+  ],
+  "ffjsf": [
+    {
+      "word": "trust",
+      "freq": 727
+    }
+  ],
+  "sksj": [
+    {
+      "word": "wish",
+      "freq": 1365
+    }
+  ],
+  "jljjf": [
+    {
+      "word": "young",
+      "freq": 1471
+    }
+  ],
+  "adjkfd": [
+    {
+      "word": "admire",
+      "freq": 79
+    }
+  ],
+  "allls": [
+    {
+      "word": "allow",
+      "freq": 666
+    }
+  ],
+  "faffld": [
+    {
+      "word": "battle",
+      "freq": 226
+    }
+  ],
+  "dlkjf": [
+    {
+      "word": "climb",
+      "freq": 204
+    }
+  ],
+  "dlj;ldfd": [
+    {
+      "word": "complete",
+      "freq": 289
+    }
+  ],
+  "dkfkdd": [
+    {
+      "word": "divide",
+      "freq": 80
+    }
+  ],
+  "dfflff": [
+    {
+      "word": "effort",
+      "freq": 130
+    }
+  ],
+  "ffdsj": [
+    {
+      "word": "fresh",
+      "freq": 395
+    }
+  ],
+  "kjdddd": [
+    {
+      "word": "indeed",
+      "freq": 186
+    }
+  ],
+  "jaffkafd": [
+    {
+      "word": "marriage",
+      "freq": 649
+    }
+  ],
+  "ljfskdd": [
+    {
+      "word": "outside",
+      "freq": 828
+    }
+  ],
+  ";ldasajf": [
+    {
+      "word": "pleasant",
+      "freq": 82
+    }
+  ],
+  ";lkjf": [
+    {
+      "word": "point",
+      "freq": 1207
+    }
+  ],
+  "fdddjf": [
+    {
+      "word": "recent",
+      "freq": 64
+    }
+  ],
+  "sddfdfafj": [
+    {
+      "word": "secretary",
+      "freq": 108
+    }
+  ],
+  "skjf": [
+    {
+      "word": "sing",
+      "freq": 917
+    }
+  ],
+  "slff": [
+    {
+      "word": "soft",
+      "freq": 238
+    }
+  ],
+  "fjkfd": [
+    {
+      "word": "third",
+      "freq": 544
+    }
+  ],
+  "fafkljs": [
+    {
+      "word": "various",
+      "freq": 32
+    }
+  ],
+  "adfdjfjfd": [
+    {
+      "word": "adventure",
+      "freq": 216
+    }
+  ],
+  "alfjljfj": [
+    {
+      "word": "although",
+      "freq": 384
+    }
+  ],
+  "flfflj": [
+    {
+      "word": "bottom",
+      "freq": 315
+    }
+  ],
+  "dlkj": [
+    {
+      "word": "coin",
+      "freq": 68
+    }
+  ],
+  "dljflff": [
+    {
+      "word": "comfort",
+      "freq": 51
+    }
+  ],
+  "dfl;": [
+    {
+      "word": "drop",
+      "freq": 959
+    }
+  ],
+  "dajal": [
+    {
+      "word": "equal",
+      "freq": 56
+    }
+  ],
+  "kjfdllkfdjf": [
+    {
+      "word": "intelligent",
+      "freq": 87
+    }
+  ],
+  "jlkj": [
+    {
+      "word": "join",
+      "freq": 808
+    }
+  ],
+  "lajfj": [
+    {
+      "word": "laugh",
+      "freq": 858
+    }
+  ],
+  "jkddld": [
+    {
+      "word": "middle",
+      "freq": 361
+    }
+  ],
+  ";dfflfj": [
+    {
+      "word": "perform",
+      "freq": 245
+    }
+  ],
+  ";lakj": [
+    {
+      "word": "plain",
+      "freq": 55
+    }
+  ],
+  "slldkdf": [
+    {
+      "word": "soldier",
+      "freq": 96
+    }
+  ],
+  "sjffadd": [
+    {
+      "word": "surface",
+      "freq": 38
+    }
+  ],
+  "fjkdk": [
+    {
+      "word": "thick",
+      "freq": 84
+    }
+  ],
+  "jjfkl": [
+    {
+      "word": "until",
+      "freq": 1642
+    }
+  ],
+  "skld": [
+    {
+      "word": "wild",
+      "freq": 322
+    }
+  ],
+  "affdj;f": [
+    {
+      "word": "attempt",
+      "freq": 98
+    }
+  ],
+  "fkll": [
+    {
+      "word": "bill",
+      "freq": 397
+    }
+  ],
+  "ffdafjd": [
+    {
+      "word": "breathe",
+      "freq": 299
+    }
+  ],
+  "dllk": [
+    {
+      "word": "cook",
+      "freq": 387
+    }
+  ],
+  "ddfdjd": [
+    {
+      "word": "defend",
+      "freq": 111
+    }
+  ],
+  "ffdj": [
+    {
+      "word": "grey",
+      "freq": 91
+    }
+  ],
+  "djafadfdf": [
+    {
+      "word": "character",
+      "freq": 489
+    }
+  ],
+  "kj;lff": [
+    {
+      "word": "import",
+      "freq": 1
+    }
+  ],
+  "llsd": [
+    {
+      "word": "lose",
+      "freq": 2710
+    }
+  ],
+  "jljjfakj": [
+    {
+      "word": "mountain",
+      "freq": 257
+    }
+  ],
+  "l;dfafklj": [
+    {
+      "word": "operation",
+      "freq": 172
+    }
+  ],
+  ";fkad": [
+    {
+      "word": "prize",
+      "freq": 286
+    }
+  ],
+  "fksk": [
+    {
+      "word": "risk",
+      "freq": 142
+    }
+  ],
+  "sjdddjlj": [
+    {
+      "word": "suddenly",
+      "freq": 346
+    }
+  ],
+  "sjkf": [
+    {
+      "word": "suit",
+      "freq": 636
+    }
+  ],
+  "fj;d": [
+    {
+      "word": "type",
+      "freq": 301
+    }
+  ],
+  "slld": [
+    {
+      "word": "wood",
+      "freq": 288
+    }
+  ],
+  "afda": [
+    {
+      "word": "area",
+      "freq": 353
+    }
+  ],
+  "asldd;": [
+    {
+      "word": "asleep",
+      "freq": 167
+    }
+  ],
+  "dafdldss": [
+    {
+      "word": "careless",
+      "freq": 1
+    }
+  ],
+  "ddlaj": [
+    {
+      "word": "delay",
+      "freq": 32
+    }
+  ],
+  "dfdjf": [
+    {
+      "word": "event",
+      "freq": 326
+    }
+  ],
+  "fllf": [
+    {
+      "word": "foot",
+      "freq": 939
+    }
+  ],
+  "djakj": [
+    {
+      "word": "chain",
+      "freq": 165
+    }
+  ],
+  "kjfdfjafkljal": [
+    {
+      "word": "international",
+      "freq": 49
+    }
+  ],
+  "jafdj": [
+    {
+      "word": "match",
+      "freq": 197
+    }
+  ],
+  "jdffljs": [
+    {
+      "word": "nervous",
+      "freq": 385
+    }
+  ],
+  ";kfj": [
+    {
+      "word": "pity",
+      "freq": 59
+    }
+  ],
+  ";flfd": [
+    {
+      "word": "prove",
+      "freq": 540
+    }
+  ],
+  "faksd": [
+    {
+      "word": "raise",
+      "freq": 592
+    }
+  ],
+  "sjjf": [
+    {
+      "word": "shut",
+      "freq": 1709
+    }
+  ],
+  "sjdll": [
+    {
+      "word": "smell",
+      "freq": 978
+    }
+  ],
+  "sffakfjf": [
+    {
+      "word": "straight",
+      "freq": 356
+    }
+  ],
+  "ffadd": [
+    {
+      "word": "trade",
+      "freq": 178
+    }
+  ],
+  "fafkdfj": [
+    {
+      "word": "variety",
+      "freq": 40
+    }
+  ],
+  "adjkf": [
+    {
+      "word": "admit",
+      "freq": 510
+    }
+  ],
+  "affdjd": [
+    {
+      "word": "attend",
+      "freq": 117
+    }
+  ],
+  "ffajdj": [
+    {
+      "word": "branch",
+      "freq": 92
+    }
+  ],
+  "dlal": [
+    {
+      "word": "coal",
+      "freq": 1
+    }
+  ],
+  "dljsksf": [
+    {
+      "word": "consist",
+      "freq": 1
+    }
+  ],
+  "dddlafd": [
+    {
+      "word": "declare",
+      "freq": 118
+    }
+  ],
+  "dsadf": [
+    {
+      "word": "exact",
+      "freq": 179
+    }
+  ],
+  "kjsfdad": [
+    {
+      "word": "instead",
+      "freq": 686
+    }
+  ],
+  "jadkdf": [
+    {
+      "word": "jacket",
+      "freq": 508
+    }
+  ],
+  "jdfal": [
+    {
+      "word": "metal",
+      "freq": 75
+    }
+  ],
+  "l;;lskfd": [
+    {
+      "word": "opposite",
+      "freq": 102
+    }
+  ],
+  ";ljjd": [
+    {
+      "word": "pound",
+      "freq": 318
+    }
+  ],
+  "flll": [
+    {
+      "word": "roll",
+      "freq": 661
+    }
+  ],
+  "sdlfd": [
+    {
+      "word": "score",
+      "freq": 221
+    }
+  ],
+  "sjllf": [
+    {
+      "word": "shoot",
+      "freq": 1377
+    }
+  ],
+  "s;dddj": [
+    {
+      "word": "speech",
+      "freq": 278
+    }
+  ],
+  "flkldf": [
+    {
+      "word": "toilet",
+      "freq": 570
+    }
+  ],
+  "sjlsd": [
+    {
+      "word": "whose",
+      "freq": 363
+    }
+  ],
+  "affkfjdd": [
+    {
+      "word": "attitude",
+      "freq": 179
+    }
+  ],
+  "ffafd": [
+    {
+      "word": "brave",
+      "freq": 204
+    }
+  ],
+  "dljfakj": [
+    {
+      "word": "contain",
+      "freq": 105
+    }
+  ],
+  "ds;dfkdjdd": [
+    {
+      "word": "experience",
+      "freq": 355
+    }
+  ],
+  "fjafd": [
+    {
+      "word": "guard",
+      "freq": 209
+    }
+  ],
+  "jdafj": [
+    {
+      "word": "heavy",
+      "freq": 191
+    }
+  ],
+  "djaffd": [
+    {
+      "word": "charge",
+      "freq": 377
+    }
+  ],
+  "kflj": [
+    {
+      "word": "iron",
+      "freq": 118
+    }
+  ],
+  "jddkdkjd": [
+    {
+      "word": "medicine",
+      "freq": 196
+    }
+  ],
+  "jlksd": [
+    {
+      "word": "noise",
+      "freq": 302
+    }
+  ],
+  ";llkfkds": [
+    {
+      "word": "politics",
+      "freq": 66
+    }
+  ],
+  ";ljf": [
+    {
+      "word": "pour",
+      "freq": 155
+    }
+  ],
+  "sjllfj": [
+    {
+      "word": "smooth",
+      "freq": 133
+    }
+  ],
+  "s;fdad": [
+    {
+      "word": "spread",
+      "freq": 207
+    }
+  ],
+  "sjffdsf": [
+    {
+      "word": "suggest",
+      "freq": 336
+    }
+  ],
+  "ffljfld": [
+    {
+      "word": "trouble",
+      "freq": 928
+    }
+  ],
+  "sdsf": [
+    {
+      "word": "west",
+      "freq": 235
+    }
+  ],
+  "afdfafd": [
+    {
+      "word": "average",
+      "freq": 65
+    }
+  ],
+  "fdlljf": [
+    {
+      "word": "belong",
+      "freq": 354
+    }
+  ],
+  "ddffakjlj": [
+    {
+      "word": "certainly",
+      "freq": 460
+    }
+  ],
+  "dfkjd": [
+    {
+      "word": "crime",
+      "freq": 352
+    }
+  ],
+  "djfj": [
+    {
+      "word": "duty",
+      "freq": 184
+    }
+  ],
+  "dkfjdf": [
+    {
+      "word": "either",
+      "freq": 1023
+    }
+  ],
+  "fakl": [
+    {
+      "word": "fail",
+      "freq": 388
+    }
+  ],
+  "jdalfj": [
+    {
+      "word": "health",
+      "freq": 225
+    }
+  ],
+  "kjfljdjdd": [
+    {
+      "word": "influence",
+      "freq": 41
+    }
+  ],
+  "ldaddf": [
+    {
+      "word": "leader",
+      "freq": 235
+    }
+  ],
+  "jdasjfd": [
+    {
+      "word": "measure",
+      "freq": 77
+    }
+  ],
+  "lffdf": [
+    {
+      "word": "offer",
+      "freq": 643
+    }
+  ],
+  ";kld": [
+    {
+      "word": "pile",
+      "freq": 122
+    }
+  ],
+  "fdfafd": [
+    {
+      "word": "regard",
+      "freq": 41
+    }
+  ],
+  "fljfj": [
+    {
+      "word": "rough",
+      "freq": 178
+    }
+  ],
+  "sdfkds": [
+    {
+      "word": "series",
+      "freq": 183
+    }
+  ],
+  "s;lkl": [
+    {
+      "word": "spoil",
+      "freq": 112
+    }
+  ],
+  "s;lf": [
+    {
+      "word": "spot",
+      "freq": 437
+    }
+  ],
+  "fjkj": [
+    {
+      "word": "thin",
+      "freq": 164
+    }
+  ],
+  "flfd": [
+    {
+      "word": "vote",
+      "freq": 353
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8-Key Input System Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 800px;
+            width: 100%;
+            padding: 40px;
+        }
+        
+        h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 32px;
+        }
+        
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        
+        .info-box {
+            background: #f0f4ff;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            font-size: 13px;
+            color: #555;
+        }
+        
+        .section {
+            margin-bottom: 25px;
+        }
+        
+        .section-label {
+            font-size: 14px;
+            font-weight: 600;
+            color: #555;
+            margin-bottom: 8px;
+            display: block;
+        }
+        
+        #eightKeyInput {
+            width: 100%;
+            padding: 15px;
+            font-size: 18px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            letter-spacing: 2px;
+            transition: border-color 0.3s;
+        }
+        
+        #eightKeyInput:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        #candidates {
+            background: #f9f9f9;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            padding: 15px;
+            min-height: 60px;
+            font-family: 'Courier New', monospace;
+            color: #333;
+        }
+        
+        .candidate-item {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 8px 15px;
+            margin: 5px;
+            border-radius: 20px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .candidate-item:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .candidate-item .number {
+            background: rgba(255, 255, 255, 0.3);
+            padding: 2px 8px;
+            border-radius: 10px;
+            margin-right: 8px;
+            font-weight: bold;
+        }
+        
+        #output {
+            background: #fff;
+            border: 2px solid #667eea;
+            border-radius: 10px;
+            padding: 15px;
+            min-height: 100px;
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        .empty-state {
+            color: #999;
+            font-style: italic;
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .stats {
+            background: #f0f4ff;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            font-size: 13px;
+            color: #666;
+        }
+        
+        .key-indicator {
+            display: inline-block;
+            background: #764ba2;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            margin: 0 2px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #667eea;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎹 8-Key Input Demo</h1>
+        <div class="subtitle">8キーキーボード入力デモシステム</div>
+        
+        <div class="info-box">
+            <strong>使い方:</strong> <span class="key-indicator">a</span> <span class="key-indicator">s</span> <span class="key-indicator">d</span> <span class="key-indicator">f</span> <span class="key-indicator">j</span> <span class="key-indicator">k</span> <span class="key-indicator">l</span> <span class="key-indicator">;</span> の8キーのみで入力してください。
+            スペースで単語を区切り、候補が表示されたら数字キーまたはクリックで選択します。
+        </div>
+		<div class="info-box">
+			<strong>注意:</strong>基本的にはqwertyキーボードの指使いを想定していますが以下のキーは少し異なっています。
+			<br><span class="key-indicator">z</span>:左小指<span class="key-indicator">x</span>:左薬指<span class="key-indicator">c</span>:左中指
+		</div>
+        
+        <div class="section">
+            <label class="section-label">8キー入力エリア:</label>
+            <input type="text" id="eightKeyInput" placeholder="例: fjd flj (the boy)" autocomplete="off">
+        </div>
+        
+        <div class="section">
+            <label class="section-label">変換候補:</label>
+            <div id="candidates">
+                <div class="empty-state">単語を入力すると候補が表示されます</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <label class="section-label">確定済みテキスト:</label>
+            <div id="output">
+                <div class="empty-state">確定した単語がここに表示されます</div>
+            </div>
+        </div>
+        
+        <div class="stats" id="stats">
+            <div id="statsContent" class="loading">辞書を読み込んでいます...</div>
+        </div>
+    </div>
+
+    <script>
+        // 8キー辞書（グローバル）
+        let dictionary = {};
+        let dictStats = {};
+        
+        // 辞書を読み込む
+        async function loadDictionary() {
+            try {
+                const response = await fetch('linux_words.json');
+                dictionary = await response.json();
+                
+                // 統計情報を計算
+                const totalPatterns = Object.keys(dictionary).length;
+                let totalWords = 0;
+                let uniquePatterns = 0;
+                
+                for (const [key, candidates] of Object.entries(dictionary)) {
+                    totalWords += candidates.length;
+                    if (candidates.length === 1) {
+                        uniquePatterns++;
+                    }
+                }
+                
+                dictStats = {
+                    totalPatterns,
+                    totalWords,
+                    uniquePatterns,
+                    collisionPatterns: totalPatterns - uniquePatterns
+                };
+                
+                document.getElementById('statsContent').innerHTML = `
+                    📚 <strong>辞書:</strong> ${dictStats.totalWords}単語 | 
+                    ✅ ユニーク: ${dictStats.uniquePatterns} (${(dictStats.uniquePatterns/dictStats.totalPatterns*100).toFixed(1)}%) | 
+                    ⚠️ 衝突: ${dictStats.collisionPatterns} (${(dictStats.collisionPatterns/dictStats.totalPatterns*100).toFixed(1)}%)
+                `;
+                
+                console.log('辞書読み込み完了:', dictStats);
+            } catch (error) {
+                console.error('辞書の読み込みに失敗:', error);
+                document.getElementById('statsContent').innerHTML = 
+                    '❌ 辞書の読み込みに失敗しました。common_words_1000.jsonを同じディレクトリに配置してください。';
+            }
+        }
+        
+        // 8キー入力をデコード
+        function decode(eightKeyInput) {
+            if (!eightKeyInput || !dictionary[eightKeyInput]) {
+                return [];
+            }
+            
+            return dictionary[eightKeyInput].map(item => item.word);
+        }
+        
+        // 候補を表示
+        function showCandidates(candidates, currentWord) {
+            const candidatesDiv = document.getElementById('candidates');
+            
+            if (candidates.length === 0) {
+                candidatesDiv.innerHTML = `<div class="empty-state">「${currentWord}」の候補が見つかりません</div>`;
+                return;
+            }
+            
+            candidatesDiv.innerHTML = '';
+            candidates.forEach((word, index) => {
+                const item = document.createElement('div');
+                item.className = 'candidate-item';
+                item.innerHTML = `<span class="number">${index + 1}</span>${word}`;
+                item.onclick = () => selectCandidate(word);
+                candidatesDiv.appendChild(item);
+            });
+        }
+        
+        // 候補を選択
+        let confirmedWords = [];
+        
+        function selectCandidate(word) {
+            confirmedWords.push(word);
+            updateOutput();
+            
+            // 入力エリアをクリア
+            document.getElementById('eightKeyInput').value = '';
+            document.getElementById('candidates').innerHTML = 
+                '<div class="empty-state">単語を入力すると候補が表示されます</div>';
+        }
+        
+        // 出力を更新
+        function updateOutput() {
+            const outputDiv = document.getElementById('output');
+            
+            if (confirmedWords.length === 0) {
+                outputDiv.innerHTML = '<div class="empty-state">確定した単語がここに表示されます</div>';
+            } else {
+                outputDiv.innerHTML = confirmedWords.join(' ');
+            }
+        }
+        
+        // 入力イベント
+        const eightKeyInput = document.getElementById('eightKeyInput');
+        const validKeys = new Set(['a', 's', 'd', 'f', 'j', 'k', 'l', ';', ' ']);
+        
+        eightKeyInput.addEventListener('keydown', (e) => {
+            const key = e.key.toLowerCase();
+            
+            // 数字キーで候補選択
+            if (e.key >= '1' && e.key <= '9') {
+                const candidateItems = document.querySelectorAll('.candidate-item');
+                const index = parseInt(e.key) - 1;
+                if (index < candidateItems.length) {
+                    candidateItems[index].click();
+                    e.preventDefault();
+                }
+                return;
+            }
+            
+            // Backspace, Delete, Arrow keys は許可
+            if (e.key === 'Backspace' || e.key === 'Delete' || 
+                e.key === 'ArrowLeft' || e.key === 'ArrowRight' ||
+                e.key === 'Home' || e.key === 'End') {
+                return;
+            }
+            
+            // スペースキーの処理
+            if (e.key === ' ') {
+                const currentInput = eightKeyInput.value.trim();
+                if (currentInput) {
+                    const candidates = decode(currentInput);
+                    if (candidates.length === 1) {
+                        // 候補が1つなら自動確定
+                        selectCandidate(candidates[0]);
+                        e.preventDefault();
+                    } else if (candidates.length > 1) {
+                        // 候補が複数なら選択待ち
+                        showCandidates(candidates, currentInput);
+                        e.preventDefault();
+                    }
+                }
+                return;
+            }
+            
+            // 8キー以外の入力をブロック
+            if (!validKeys.has(key)) {
+                e.preventDefault();
+            }
+        });
+        
+        eightKeyInput.addEventListener('input', () => {
+            const value = eightKeyInput.value.trim();
+            
+            // 現在入力中の単語を取得（最後の単語）
+            const words = value.split(' ');
+            const currentWord = words[words.length - 1];
+            
+            if (currentWord) {
+                const candidates = decode(currentWord);
+                showCandidates(candidates, currentWord);
+            } else {
+                document.getElementById('candidates').innerHTML = 
+                    '<div class="empty-state">単語を入力すると候補が表示されます</div>';
+            }
+        });
+        
+        // ページ読み込み時に辞書を読み込む
+        loadDictionary();
+    </script>
+</body>
+</html>
